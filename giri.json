@@ -2410,5 +2410,17 @@
         "tempo": 31714.334393,
         "delta": -1372.917474,
         "classe": "BGP"
+    },
+    {
+        "data": "29/11/2025",
+        "ora": "09:01:56.014567",
+        "timestamp": 1764403315,
+        "id_messaggio": 17060,
+        "frase": "Giornandoooooo! 'A collera \u00e8 fatta a cuoppo, chi s' 'a piglia schiatta 'ncuorpo!",
+        "id_frase": 152,
+        "colore": "rosso",
+        "tempo": 32516.014567,
+        "delta": 801.680174,
+        "classe": "BGP"
     }
 ]
