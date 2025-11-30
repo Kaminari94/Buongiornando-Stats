@@ -2422,5 +2422,17 @@
         "tempo": 32516.014567,
         "delta": 801.680174,
         "classe": "BGP"
+    },
+    {
+        "data": "30/11/2025",
+        "ora": "08:51:08.040083",
+        "timestamp": 1764489067,
+        "id_messaggio": 17139,
+        "frase": "Anche se la pioggia si dimentica l'ombrello, il pesce non pu\u00f2 guidare la bicicletta perch\u00e8 la Luna e il pane non hanno lo stesso Wi-fi! Giornandooo!",
+        "id_frase": 81,
+        "colore": "verde",
+        "tempo": 31868.040083,
+        "delta": -647.974484,
+        "classe": "BGP"
     }
 ]
