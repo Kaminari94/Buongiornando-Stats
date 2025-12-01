@@ -2434,5 +2434,17 @@
         "tempo": 31868.040083,
         "delta": -647.974484,
         "classe": "BGP"
+    },
+    {
+        "data": "01/12/2025",
+        "ora": "10:24:48.762426",
+        "timestamp": 1764581088,
+        "id_messaggio": 17179,
+        "frase": "Ehi tu! S\u00ec, proprio tu! Buongiornando!",
+        "id_frase": 15,
+        "colore": "rosso",
+        "tempo": 37488.762426,
+        "delta": 5620.722343,
+        "classe": "BGP"
     }
 ]
