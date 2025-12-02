@@ -2446,5 +2446,17 @@
         "tempo": 37488.762426,
         "delta": 5620.722343,
         "classe": "BGP"
+    },
+    {
+        "data": "02/12/2025",
+        "ora": "10:45:00.961614",
+        "timestamp": 1764668700,
+        "id_messaggio": 17241,
+        "frase": "Non smetter di buongiornandare, perch\u00e8 i buongiornandi sono le ali per volare.",
+        "id_frase": 108,
+        "colore": "rosso",
+        "tempo": 38700.961614,
+        "delta": 1212.199188,
+        "classe": "BGP"
     }
 ]
