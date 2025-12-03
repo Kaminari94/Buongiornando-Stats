@@ -2458,5 +2458,17 @@
         "tempo": 38700.961614,
         "delta": 1212.199188,
         "classe": "BGP"
+    },
+    {
+        "data": "03/12/2025",
+        "ora": "08:59:56.842632",
+        "timestamp": 1764748796,
+        "id_messaggio": 17267,
+        "frase": "Quando un airone fa il coraggioso, vuol dire che c'\u00e8 un albero vicino! Giornando!",
+        "id_frase": 75,
+        "colore": "verde",
+        "tempo": 32396.842632,
+        "delta": -6304.118982,
+        "classe": "BGP"
     }
 ]
