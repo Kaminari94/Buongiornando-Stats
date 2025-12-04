@@ -2470,5 +2470,17 @@
         "tempo": 32396.842632,
         "delta": -6304.118982,
         "classe": "BGP"
+    },
+    {
+        "data": "04/12/2025",
+        "ora": "08:40:52.814287",
+        "timestamp": 1764834052,
+        "id_messaggio": 17297,
+        "frase": "Il buongiornando \u00e8 come un biscotto ma se piove si scioglie.",
+        "id_frase": 52,
+        "colore": "verde",
+        "tempo": 31252.814287,
+        "delta": -1144.028345,
+        "classe": "BGP"
     }
 ]
