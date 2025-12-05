@@ -2482,5 +2482,17 @@
         "tempo": 31252.814287,
         "delta": -1144.028345,
         "classe": "BGP"
+    },
+    {
+        "data": "05/12/2025",
+        "ora": "08:39:13.859529",
+        "timestamp": 1764920353,
+        "id_messaggio": 17299,
+        "frase": "Il buongiornando \u00e8 il profumo della vita!",
+        "id_frase": 40,
+        "colore": "verde",
+        "tempo": 31153.859529,
+        "delta": -98.954758,
+        "classe": "BGP"
     }
 ]
