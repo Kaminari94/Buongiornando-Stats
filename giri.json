@@ -2494,5 +2494,17 @@
         "tempo": 31153.859529,
         "delta": -98.954758,
         "classe": "BGP"
+    },
+    {
+        "data": "06/12/2025",
+        "ora": "08:35:34.777256",
+        "timestamp": 1765006534,
+        "id_messaggio": 17409,
+        "frase": "Alla ricerca del buongiornando perduto!",
+        "id_frase": 43,
+        "colore": "verde",
+        "tempo": 30934.777256,
+        "delta": -219.082273,
+        "classe": "BGP"
     }
 ]
