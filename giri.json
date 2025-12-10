@@ -2518,5 +2518,17 @@
         "tempo": 31474.831045,
         "delta": 540.053789,
         "classe": "BGP"
+    },
+    {
+        "data": "10/12/2025",
+        "ora": "06:29:00.909143",
+        "timestamp": 1765344540,
+        "id_messaggio": 17565,
+        "frase": "Se io non avrei fatto il buongiornandaro non fossi stato qui.",
+        "id_frase": 71,
+        "colore": "verde",
+        "tempo": 23340.909143,
+        "delta": -8133.921902,
+        "classe": "BGP"
     }
 ]
