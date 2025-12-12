@@ -2542,5 +2542,17 @@
         "tempo": 35355.734853,
         "delta": 12014.82571,
         "classe": "BGP"
+    },
+    {
+        "data": "12/12/2025",
+        "ora": "08:40:09.568981",
+        "timestamp": 1765525209,
+        "id_messaggio": 17685,
+        "frase": "Buongiornando con la forza di mille soli!",
+        "id_frase": 8,
+        "colore": "verde",
+        "tempo": 31209.568981,
+        "delta": -4146.165872,
+        "classe": "BGP"
     }
 ]
