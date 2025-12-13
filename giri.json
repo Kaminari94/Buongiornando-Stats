@@ -2554,5 +2554,17 @@
         "tempo": 31209.568981,
         "delta": -4146.165872,
         "classe": "BGP"
+    },
+    {
+        "data": "13/12/2025",
+        "ora": "09:07:27.450052",
+        "timestamp": 1765613247,
+        "id_messaggio": 17708,
+        "frase": "Il buongiorno si vede dal Nandino!",
+        "id_frase": 1,
+        "colore": "rosso",
+        "tempo": 32847.450052,
+        "delta": 1637.881071,
+        "classe": "BGP"
     }
 ]
