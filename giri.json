@@ -2566,5 +2566,17 @@
         "tempo": 32847.450052,
         "delta": 1637.881071,
         "classe": "BGP"
+    },
+    {
+        "data": "14/12/2025",
+        "ora": "05:32:18.398746",
+        "timestamp": 1765686737,
+        "id_messaggio": 17788,
+        "frase": "Tu chiamale se vuoi... emozioni, ma io le chiamo buongiornando!",
+        "id_frase": 32,
+        "colore": "rosso",
+        "tempo": 19938.398746,
+        "delta": 1769.550239,
+        "classe": "MCNR"
     }
 ]
