@@ -2590,5 +2590,17 @@
         "tempo": 35408.094733,
         "delta": 2560.644681,
         "classe": "BGP"
+    },
+    {
+        "data": "16/12/2025",
+        "ora": "09:31:51.499946",
+        "timestamp": 1765873910,
+        "id_messaggio": 17892,
+        "frase": "Un guerriero non pu\u00f2 abbassare la testa altrimenti perderebbe di vista l'orizzonte dei suoi buongiornandi!",
+        "id_frase": 98,
+        "colore": "verde",
+        "tempo": 34311.499946,
+        "delta": -1096.594787,
+        "classe": "BGP"
     }
 ]
