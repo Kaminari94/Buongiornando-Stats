@@ -2650,5 +2650,17 @@
         "tempo": 31398.374379,
         "delta": -4161.335887,
         "classe": "BGP"
+    },
+    {
+        "data": "21/12/2025",
+        "ora": "07:28:08.955897",
+        "timestamp": 1766298488,
+        "id_messaggio": 18060,
+        "frase": "Un buongiornando macchiato, tiepido, senza schiuma e con poco caff\u00e8... Tiepido eh, non freddo!",
+        "id_frase": 68,
+        "colore": "verde",
+        "tempo": 26888.955897,
+        "delta": -4509.418482,
+        "classe": "BGP"
     }
 ]
