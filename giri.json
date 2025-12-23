@@ -2674,5 +2674,17 @@
         "tempo": 29946.306138,
         "delta": 3057.350241,
         "classe": "BGP"
+    },
+    {
+        "data": "23/12/2025",
+        "ora": "09:33:32.496682",
+        "timestamp": 1766478811,
+        "id_messaggio": 18121,
+        "frase": "Ascoltate come tuona la voce di Nando, udite il ruggito che esce dalla sua bocca; lo fa rimbombare sotto tutti i cieli. Il suo fulmine raggiunge ogni angolo della Terra, seguito da un rombo assordante, un ruggito possente. Nando tuona con la sua voce e ci sorprende, fa cose meravigliose che nemmeno comprendiamo.",
+        "id_frase": 16,
+        "colore": "rosso",
+        "tempo": 34412.496682,
+        "delta": 4466.190544,
+        "classe": "BGP"
     }
 ]
