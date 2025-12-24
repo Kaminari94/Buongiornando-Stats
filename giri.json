@@ -2686,5 +2686,17 @@
         "tempo": 34412.496682,
         "delta": 4466.190544,
         "classe": "BGP"
+    },
+    {
+        "data": "24/12/2025",
+        "ora": "05:21:52.470518",
+        "timestamp": 1766550111,
+        "id_messaggio": 18134,
+        "frase": "Ogni giorno \u00e8 una pagina bianca... riempila con un buongiornando!",
+        "id_frase": 55,
+        "colore": "verde",
+        "tempo": 19312.470518,
+        "delta": -625.928228,
+        "classe": "MCNR"
     }
 ]
