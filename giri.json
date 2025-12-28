@@ -2722,5 +2722,17 @@
         "tempo": 30429.344797,
         "delta": 845.942109,
         "classe": "BGP"
+    },
+    {
+        "data": "28/12/2025",
+        "ora": "09:04:59.727462",
+        "timestamp": 1766909099,
+        "id_messaggio": 18415,
+        "frase": "In tiempo 'e tempesta, ogne pertuso \u00e8 puort! Giornandooo!",
+        "id_frase": 151,
+        "colore": "rosso",
+        "tempo": 32699.727462,
+        "delta": 2270.382665,
+        "classe": "BGP"
     }
 ]
