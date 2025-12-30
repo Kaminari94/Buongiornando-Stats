@@ -2746,5 +2746,17 @@
         "tempo": 29461.059516,
         "delta": -3238.667946,
         "classe": "BGP"
+    },
+    {
+        "data": "30/12/2025",
+        "ora": "08:32:29.947756",
+        "timestamp": 1767079949,
+        "id_messaggio": 18438,
+        "frase": "Nel dubbio, buongiornandami!",
+        "id_frase": 33,
+        "colore": "rosso",
+        "tempo": 30749.947756,
+        "delta": 1288.88824,
+        "classe": "BGP"
     }
 ]
