@@ -2794,5 +2794,17 @@
         "tempo": 30187.356312,
         "delta": -6799.412109,
         "classe": "BGP"
+    },
+    {
+        "data": "04/01/2026",
+        "ora": "09:49:23.156184",
+        "timestamp": 1767516562,
+        "id_messaggio": 18605,
+        "frase": "A pav\u00e0 e a mur\u00ec ce sta semp tiemp! Giornandooooo!",
+        "id_frase": 155,
+        "colore": "rosso",
+        "tempo": 35363.156184,
+        "delta": 5175.799872,
+        "classe": "BGP"
     }
 ]
