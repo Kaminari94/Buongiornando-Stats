@@ -2878,5 +2878,17 @@
         "tempo": 15013.14012,
         "delta": -4299.330398,
         "classe": "MCNR"
+    },
+    {
+        "data": "11/01/2026",
+        "ora": "05:14:11.605986",
+        "timestamp": 1768104851,
+        "id_messaggio": 18974,
+        "frase": "Libiamo, libiamo ne' lieti calici, che la bellezza infiora, e la fuggevol, fuggevol ora s'inebri\u00ec a buongiornand\u00e0!",
+        "id_frase": 125,
+        "colore": "rosso",
+        "tempo": 18851.605986,
+        "delta": 3838.465866,
+        "classe": "MCNR"
     }
 ]
