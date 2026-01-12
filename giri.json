@@ -2890,5 +2890,17 @@
         "tempo": 18851.605986,
         "delta": 3838.465866,
         "classe": "MCNR"
+    },
+    {
+        "data": "12/01/2026",
+        "ora": "06:06:04.409973",
+        "timestamp": 1768194363,
+        "id_messaggio": 19032,
+        "frase": "Che tu sia dannato se non dici buongiornando almeno una volta al giorno!",
+        "id_frase": 31,
+        "colore": "verde",
+        "tempo": 21964.409973,
+        "delta": -8871.576123,
+        "classe": "BGP"
     }
 ]
