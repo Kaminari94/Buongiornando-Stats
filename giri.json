@@ -2902,5 +2902,17 @@
         "tempo": 21964.409973,
         "delta": -8871.576123,
         "classe": "BGP"
+    },
+    {
+        "data": "13/01/2026",
+        "ora": "10:18:05.515950",
+        "timestamp": 1768295885,
+        "id_messaggio": 19074,
+        "frase": "Giacomino \u00e8 in bagno... Giacomino sta buongiornanda... Eh sta buongiornandando in bagno, si vede che si \u00e8 messo su telegram mentre stava cagando! Che ne so io!",
+        "id_frase": 70,
+        "colore": "rosso",
+        "tempo": 37085.51595,
+        "delta": 15121.105977,
+        "classe": "BGP"
     }
 ]
