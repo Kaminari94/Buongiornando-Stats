@@ -2914,5 +2914,17 @@
         "tempo": 37085.51595,
         "delta": 15121.105977,
         "classe": "BGP"
+    },
+    {
+        "data": "14/01/2026",
+        "ora": "09:58:14.906809",
+        "timestamp": 1768381094,
+        "id_messaggio": 19078,
+        "frase": "Nella vita ci sono due tipi di persone: chi dice buongiornando e chi lo subisce!",
+        "id_frase": 41,
+        "colore": "verde",
+        "tempo": 35894.906809,
+        "delta": -1190.609141,
+        "classe": "BGP"
     }
 ]
