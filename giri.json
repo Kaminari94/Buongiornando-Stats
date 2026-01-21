@@ -2986,5 +2986,17 @@
         "tempo": 27486.199443,
         "delta": -3846.691903,
         "classe": "BGP"
+    },
+    {
+        "data": "21/01/2026",
+        "ora": "05:34:09.565646",
+        "timestamp": 1768970049,
+        "id_messaggio": 19203,
+        "frase": "Guardate sempre il lato positivo. E se non c'\u00e8 guardate dal lato del buongiornando!",
+        "id_frase": 92,
+        "colore": "rosso",
+        "tempo": 20049.565646,
+        "delta": 1187.596976,
+        "classe": "MCNR"
     }
 ]
