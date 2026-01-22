@@ -2998,5 +2998,17 @@
         "tempo": 20049.565646,
         "delta": 1187.596976,
         "classe": "MCNR"
+    },
+    {
+        "data": "22/01/2026",
+        "ora": "08:19:58.076624",
+        "timestamp": 1769066397,
+        "id_messaggio": 19218,
+        "frase": "Chi chiagn fott a chi rir! E chi buongiornanda fott a tutt quanta!",
+        "id_frase": 153,
+        "colore": "rosso",
+        "tempo": 29998.076624,
+        "delta": 2511.877181,
+        "classe": "BGP"
     }
 ]
