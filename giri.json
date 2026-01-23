@@ -3010,5 +3010,17 @@
         "tempo": 29998.076624,
         "delta": 2511.877181,
         "classe": "BGP"
+    },
+    {
+        "data": "23/01/2026",
+        "ora": "06:22:08.747448",
+        "timestamp": 1769145728,
+        "id_messaggio": 19255,
+        "frase": "Giornandooooo, il buongiorno che raccomando!",
+        "id_frase": 141,
+        "colore": "verde",
+        "tempo": 22928.747448,
+        "delta": -7069.329176,
+        "classe": "BGP"
     }
 ]
