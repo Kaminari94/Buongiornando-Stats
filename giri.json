@@ -3022,5 +3022,17 @@
         "tempo": 22928.747448,
         "delta": -7069.329176,
         "classe": "BGP"
+    },
+    {
+        "data": "24/01/2026",
+        "ora": "09:06:04.256236",
+        "timestamp": 1769241963,
+        "id_messaggio": 19299,
+        "frase": "Che la Forza sia con te... e con il tuo buongiornando!",
+        "id_frase": 11,
+        "colore": "rosso",
+        "tempo": 32764.256236,
+        "delta": 9835.508788,
+        "classe": "BGP"
     }
 ]
