@@ -3058,5 +3058,17 @@
         "tempo": 31903.888875,
         "delta": 1570.626779,
         "classe": "BGP"
+    },
+    {
+        "data": "28/01/2026",
+        "ora": "06:04:56.585529",
+        "timestamp": 1769576696,
+        "id_messaggio": 19488,
+        "frase": "Devi fare a te stesso una domanda. \"Mi sento buongiornandato?\" Eh, pivello?",
+        "id_frase": 129,
+        "colore": "verde",
+        "tempo": 21896.585529,
+        "delta": -10007.303346,
+        "classe": "BGP"
     }
 ]
