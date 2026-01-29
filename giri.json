@@ -3070,5 +3070,17 @@
         "tempo": 21896.585529,
         "delta": -10007.303346,
         "classe": "BGP"
+    },
+    {
+        "data": "29/01/2026",
+        "ora": "08:47:39.908362",
+        "timestamp": 1769672859,
+        "id_messaggio": 19507,
+        "frase": "I Buongiornandi arrivano cos\u00ec lentamente e vanno via cos\u00ec velocemente...",
+        "id_frase": 114,
+        "colore": "rosso",
+        "tempo": 31659.908362,
+        "delta": 9763.322833,
+        "classe": "BGP"
     }
 ]
