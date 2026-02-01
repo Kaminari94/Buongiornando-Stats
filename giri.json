@@ -3106,5 +3106,17 @@
         "tempo": 28968.79015,
         "delta": -3117.989704,
         "classe": "BGP"
+    },
+    {
+        "data": "01/02/2026",
+        "ora": "08:50:33.506426",
+        "timestamp": 1769932233,
+        "id_messaggio": 19654,
+        "frase": "Say \"Giornando!\" to my little friend!",
+        "id_frase": 131,
+        "colore": "rosso",
+        "tempo": 31833.506426,
+        "delta": 2864.716276,
+        "classe": "BGP"
     }
 ]
