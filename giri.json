@@ -3118,5 +3118,17 @@
         "tempo": 31833.506426,
         "delta": 2864.716276,
         "classe": "BGP"
+    },
+    {
+        "data": "02/02/2026",
+        "ora": "08:16:27.228100",
+        "timestamp": 1770016586,
+        "id_messaggio": 19730,
+        "frase": "Buongiornando alla velocit\u00e0 della luce!",
+        "id_frase": 56,
+        "colore": "verde",
+        "tempo": 29787.2281,
+        "delta": -2046.278326,
+        "classe": "BGP"
     }
 ]
