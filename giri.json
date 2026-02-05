@@ -3154,5 +3154,17 @@
         "tempo": 34303.498712,
         "delta": 4475.601644,
         "classe": "BGP"
+    },
+    {
+        "data": "05/02/2026",
+        "ora": "10:01:08.171293",
+        "timestamp": 1770282067,
+        "id_messaggio": 19921,
+        "frase": "Svegliarsi \u00e8 difficile... ma buongiornare lo \u00e8 ancora di pi\u00f9!",
+        "id_frase": 38,
+        "colore": "rosso",
+        "tempo": 36068.171293,
+        "delta": 1764.672581,
+        "classe": "BGP"
     }
 ]
