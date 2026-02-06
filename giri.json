@@ -3166,5 +3166,17 @@
         "tempo": 36068.171293,
         "delta": 1764.672581,
         "classe": "BGP"
+    },
+    {
+        "data": "06/02/2026",
+        "ora": "07:46:39.149709",
+        "timestamp": 1770360398,
+        "id_messaggio": 19993,
+        "frase": "Mi dispiace... Di svegliarti... Forse un buongiornando non sar\u00f2...",
+        "id_frase": 105,
+        "colore": "verde",
+        "tempo": 27999.149709,
+        "delta": -8069.021584,
+        "classe": "BGP"
     }
 ]
