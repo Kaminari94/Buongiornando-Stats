@@ -3178,5 +3178,17 @@
         "tempo": 27999.149709,
         "delta": -8069.021584,
         "classe": "BGP"
+    },
+    {
+        "data": "07/02/2026",
+        "ora": "08:17:03.893653",
+        "timestamp": 1770448623,
+        "id_messaggio": 20095,
+        "frase": "Giornandoooo! Dicett o prevete a badessa: senza denar nun se cantan messe!",
+        "id_frase": 146,
+        "colore": "rosso",
+        "tempo": 29823.893653,
+        "delta": 1824.743944,
+        "classe": "BGP"
     }
 ]
