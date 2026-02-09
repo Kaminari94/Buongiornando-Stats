@@ -3202,5 +3202,17 @@
         "tempo": 29640.232213,
         "delta": -183.66144,
         "classe": "BGP"
+    },
+    {
+        "data": "09/02/2026",
+        "ora": "07:55:31.322632",
+        "timestamp": 1770620130,
+        "id_messaggio": 20137,
+        "frase": "To infinity and... buongiornando!",
+        "id_frase": 10,
+        "colore": "verde",
+        "tempo": 28531.322632,
+        "delta": -1108.909581,
+        "classe": "BGP"
     }
 ]
