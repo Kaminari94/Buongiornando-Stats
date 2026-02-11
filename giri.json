@@ -3226,5 +3226,17 @@
         "tempo": 31895.3229,
         "delta": 3364.000268,
         "classe": "BGP"
+    },
+    {
+        "data": "11/02/2026",
+        "ora": "06:13:31.929172",
+        "timestamp": 1770786811,
+        "id_messaggio": 20250,
+        "frase": "Il buongiornando dei desideri nei miei pensieri all'incontrario va!",
+        "id_frase": 107,
+        "colore": "verde",
+        "tempo": 22411.929172,
+        "delta": -9483.393728,
+        "classe": "BGP"
     }
 ]
