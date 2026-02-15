@@ -3274,5 +3274,17 @@
         "tempo": 33505.892045,
         "delta": 1166.941912,
         "classe": "BGP"
+    },
+    {
+        "data": "15/02/2026",
+        "ora": "08:17:42.168404",
+        "timestamp": 1771139861,
+        "id_messaggio": 20292,
+        "frase": "Ogni mattina su Telegram, appena sorge il sole, un bot si sveglia e sa che dovr\u00e0 correre pi\u00f9 veloce di Nando, altrimenti perder\u00e0 il Buongiornando. Ogni mattina su Telegram, appena sorge il sole, Nando si sveglia e sa che dovr\u00e0 correre pi\u00f9 del bot, o nessuno ricever\u00e0 il vero buongiornando. Non importa che tu sia un bot o Nando, l'importante \u00e8 che quando arriva il mattino... *Cominci a correre*!",
+        "id_frase": 147,
+        "colore": "verde",
+        "tempo": 29862.168404,
+        "delta": -3643.723641,
+        "classe": "BGP"
     }
 ]
