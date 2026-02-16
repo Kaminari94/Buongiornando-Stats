@@ -3286,5 +3286,17 @@
         "tempo": 29862.168404,
         "delta": -3643.723641,
         "classe": "BGP"
+    },
+    {
+        "data": "16/02/2026",
+        "ora": "07:49:55.835855",
+        "timestamp": 1771224595,
+        "id_messaggio": 20323,
+        "frase": "Espresso macchiato, por favore, por favore! Mi amore! Buongiornando macchiato...",
+        "id_frase": 97,
+        "colore": "verde",
+        "tempo": 28195.835855,
+        "delta": -1666.332549,
+        "classe": "BGP"
     }
 ]
