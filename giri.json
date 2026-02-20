@@ -3334,5 +3334,17 @@
         "tempo": 30381.628681,
         "delta": -3070.349204,
         "classe": "BGP"
+    },
+    {
+        "data": "20/02/2026",
+        "ora": "04:56:25.245814",
+        "timestamp": 1771559784,
+        "id_messaggio": 20437,
+        "frase": "Quann' 'o mare \u00e8 calmo, ogni strunz \u00e8 marenaro! Giornandoooo!",
+        "id_frase": 154,
+        "colore": "verde",
+        "tempo": 17785.245814,
+        "delta": -1095.299743,
+        "classe": "MCNR"
     }
 ]
