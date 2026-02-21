@@ -3346,5 +3346,17 @@
         "tempo": 17785.245814,
         "delta": -1095.299743,
         "classe": "MCNR"
+    },
+    {
+        "data": "21/02/2026",
+        "ora": "09:09:33.595305",
+        "timestamp": 1771661373,
+        "id_messaggio": 20471,
+        "frase": "'A meglio parola \u00e8 chella ca nun se dice! Giornandoooooo!",
+        "id_frase": 150,
+        "colore": "rosso",
+        "tempo": 32973.595305,
+        "delta": 2591.966624,
+        "classe": "BGP"
     }
 ]
