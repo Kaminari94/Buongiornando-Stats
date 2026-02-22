@@ -3358,5 +3358,17 @@
         "tempo": 32973.595305,
         "delta": 2591.966624,
         "classe": "BGP"
+    },
+    {
+        "data": "22/02/2026",
+        "ora": "08:12:05.537242",
+        "timestamp": 1771744325,
+        "id_messaggio": 20479,
+        "frase": "Voglio il buongiornando e lo voglio adesso!",
+        "id_frase": 30,
+        "colore": "verde",
+        "tempo": 29525.537242,
+        "delta": -3448.058063,
+        "classe": "BGP"
     }
 ]
