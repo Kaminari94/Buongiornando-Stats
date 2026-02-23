@@ -3370,5 +3370,17 @@
         "tempo": 29525.537242,
         "delta": -3448.058063,
         "classe": "BGP"
+    },
+    {
+        "data": "23/02/2026",
+        "ora": "10:00:49.625913",
+        "timestamp": 1771837249,
+        "id_messaggio": 20494,
+        "frase": "Non esiste buongiornando pacifista!!!",
+        "id_frase": 115,
+        "colore": "rosso",
+        "tempo": 36049.625913,
+        "delta": 6524.088671,
+        "classe": "BGP"
     }
 ]
