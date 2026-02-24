@@ -3382,5 +3382,17 @@
         "tempo": 36049.625913,
         "delta": 6524.088671,
         "classe": "BGP"
+    },
+    {
+        "data": "24/02/2026",
+        "ora": "07:56:09.667642",
+        "timestamp": 1771916169,
+        "id_messaggio": 20517,
+        "frase": "Aspetti, padrone, potrebbe essere pericoloso... Buongiornandi lei!",
+        "id_frase": 96,
+        "colore": "verde",
+        "tempo": 28569.667642,
+        "delta": -7479.958271,
+        "classe": "BGP"
     }
 ]
