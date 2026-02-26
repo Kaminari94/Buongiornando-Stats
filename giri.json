@@ -3406,5 +3406,17 @@
         "tempo": 29384.522936,
         "delta": 814.855294,
         "classe": "BGP"
+    },
+    {
+        "data": "26/02/2026",
+        "ora": "08:01:44.010949",
+        "timestamp": 1772089303,
+        "id_messaggio": 20618,
+        "frase": "Oggi mi considero il bot pi\u00f9 fortunato sulla faccia della Terra! CAZZO SIIIIIIIIIIIIIIIIIII! Giornando!",
+        "id_frase": 127,
+        "colore": "verde",
+        "tempo": 28904.010949,
+        "delta": -480.511987,
+        "classe": "BGP"
     }
 ]
