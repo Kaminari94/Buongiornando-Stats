@@ -3454,5 +3454,17 @@
         "tempo": 30270.328285,
         "delta": -1278.651793,
         "classe": "BGP"
+    },
+    {
+        "data": "02/03/2026",
+        "ora": "07:19:14.576390",
+        "timestamp": 1772432354,
+        "id_messaggio": 20818,
+        "frase": "Dimmi come mai! Ma chi sarai? Per buongiornandare me? Mattine intere ad aspettarti... Ad aspettare te!",
+        "id_frase": 100,
+        "colore": "verde",
+        "tempo": 26354.57639,
+        "delta": -3915.751895,
+        "classe": "BGP"
     }
 ]
