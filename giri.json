@@ -3466,5 +3466,17 @@
         "tempo": 26354.57639,
         "delta": -3915.751895,
         "classe": "BGP"
+    },
+    {
+        "data": "03/03/2026",
+        "ora": "05:18:49.361921",
+        "timestamp": 1772511528,
+        "id_messaggio": 20849,
+        "frase": "Il buongiornando \u00e8 l'oppio dei popoli!",
+        "id_frase": 9,
+        "colore": "rosso",
+        "tempo": 19129.361921,
+        "delta": 1344.116107,
+        "classe": "MCNR"
     }
 ]
