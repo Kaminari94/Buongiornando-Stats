@@ -3478,5 +3478,17 @@
         "tempo": 19129.361921,
         "delta": 1344.116107,
         "classe": "MCNR"
+    },
+    {
+        "data": "04/03/2026",
+        "ora": "08:41:48.245496",
+        "timestamp": 1772610107,
+        "id_messaggio": 20871,
+        "frase": "Guai? Preparatevi a passare dei guai! Dei guai molto grossi! Io sono Jessie! E io sono James! E noi siamo il team Giornandocket!",
+        "id_frase": 106,
+        "colore": "rosso",
+        "tempo": 31308.245496,
+        "delta": 4953.669106,
+        "classe": "BGP"
     }
 ]
