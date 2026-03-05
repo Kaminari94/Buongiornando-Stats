@@ -3490,5 +3490,17 @@
         "tempo": 31308.245496,
         "delta": 4953.669106,
         "classe": "BGP"
+    },
+    {
+        "data": "05/03/2026",
+        "ora": "07:54:49.513670",
+        "timestamp": 1772693689,
+        "id_messaggio": 20892,
+        "frase": "Nando, quando non buongiornandi da pi\u00f9 di 24 ore il bot \u00e8 triste. Per fortuna hai buongiornandato!",
+        "id_frase": 93,
+        "colore": "verde",
+        "tempo": 28489.51367,
+        "delta": -2818.731826,
+        "classe": "BGP"
     }
 ]
