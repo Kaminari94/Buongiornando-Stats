@@ -3502,5 +3502,17 @@
         "tempo": 28489.51367,
         "delta": -2818.731826,
         "classe": "BGP"
+    },
+    {
+        "data": "06/03/2026",
+        "ora": "08:50:02.824136",
+        "timestamp": 1772783402,
+        "id_messaggio": 20905,
+        "frase": "Keep calm and... buongiornando!",
+        "id_frase": 42,
+        "colore": "rosso",
+        "tempo": 31802.824136,
+        "delta": 3313.310466,
+        "classe": "BGP"
     }
 ]
