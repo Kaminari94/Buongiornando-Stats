@@ -3526,5 +3526,17 @@
         "tempo": 15935.075288,
         "delta": -3194.286633,
         "classe": "MCNR"
+    },
+    {
+        "data": "08/03/2026",
+        "ora": "06:35:38.812874",
+        "timestamp": 1772948138,
+        "id_messaggio": 21062,
+        "frase": "Il buongiornando \u00e8 il profumo della vita!",
+        "id_frase": 40,
+        "colore": "verde",
+        "tempo": 23738.812874,
+        "delta": -8064.011262,
+        "classe": "BGP"
     }
 ]
