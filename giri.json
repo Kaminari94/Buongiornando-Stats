@@ -3550,5 +3550,17 @@
         "tempo": 31273.89588,
         "delta": 7535.083006,
         "classe": "BGP"
+    },
+    {
+        "data": "10/03/2026",
+        "ora": "08:43:21.925454",
+        "timestamp": 1773128601,
+        "id_messaggio": 21166,
+        "frase": "Non \u00e8 un addio, \u00e8 un buongiornando!",
+        "id_frase": 12,
+        "colore": "rosso",
+        "tempo": 31401.925454,
+        "delta": 128.029574,
+        "classe": "BGP"
     }
 ]
