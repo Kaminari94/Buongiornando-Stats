@@ -3562,5 +3562,17 @@
         "tempo": 31401.925454,
         "delta": 128.029574,
         "classe": "BGP"
+    },
+    {
+        "data": "11/03/2026",
+        "ora": "06:49:06.753391",
+        "timestamp": 1773208146,
+        "id_messaggio": 21236,
+        "frase": "Stateve accort... Primm' e cunfett' e poi e difett'. Giornando!",
+        "id_frase": 159,
+        "colore": "verde",
+        "tempo": 24546.753391,
+        "delta": -6855.172063,
+        "classe": "BGP"
     }
 ]
