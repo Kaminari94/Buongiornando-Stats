@@ -3598,5 +3598,17 @@
         "tempo": 30980.648657,
         "delta": -20.397736,
         "classe": "BGP"
+    },
+    {
+        "data": "14/03/2026",
+        "ora": "08:56:13.641091",
+        "timestamp": 1773474973,
+        "id_messaggio": 21367,
+        "frase": "Chi \u00e8 questo buongiornatore che ven, ch'ogn om lo mira, che fa tremar di chiaritate l'are?",
+        "id_frase": 86,
+        "colore": "rosso",
+        "tempo": 32173.641091,
+        "delta": 1192.992434,
+        "classe": "BGP"
     }
 ]
