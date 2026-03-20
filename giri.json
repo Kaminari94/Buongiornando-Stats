@@ -3670,5 +3670,17 @@
         "tempo": 30915.817748,
         "delta": -2301.505135,
         "classe": "BGP"
+    },
+    {
+        "data": "20/03/2026",
+        "ora": "09:29:57.613791",
+        "timestamp": 1773995397,
+        "id_messaggio": 21598,
+        "frase": "Chi chiagn fott a chi rir! E chi buongiornanda fott a tutt quanta!",
+        "id_frase": 153,
+        "colore": "rosso",
+        "tempo": 34197.613791,
+        "delta": 3281.796043,
+        "classe": "BGP"
     }
 ]
