@@ -3682,5 +3682,17 @@
         "tempo": 34197.613791,
         "delta": 3281.796043,
         "classe": "BGP"
+    },
+    {
+        "data": "21/03/2026",
+        "ora": "08:08:23.324361",
+        "timestamp": 1774076902,
+        "id_messaggio": 21608,
+        "frase": "Il buongiornando piace all'italiano terra terra o a De Gregori, all'intellettuale. \u00c8 universale. Unisce.",
+        "id_frase": 72,
+        "colore": "verde",
+        "tempo": 29303.324361,
+        "delta": -4894.28943,
+        "classe": "BGP"
     }
 ]
