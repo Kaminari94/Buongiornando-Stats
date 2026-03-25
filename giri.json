@@ -3730,5 +3730,17 @@
         "tempo": 31643.243076,
         "delta": 3490.751405,
         "classe": "BGP"
+    },
+    {
+        "data": "25/03/2026",
+        "ora": "08:38:09.935711",
+        "timestamp": 1774424289,
+        "id_messaggio": 21806,
+        "frase": "Anche se il pomodoro non \u00e8 rosso, la mucca non pu\u00f2 essere un serpente perch\u00e8 le patate e la marmellata non sono fratelli! Buongiornando!",
+        "id_frase": 80,
+        "colore": "verde",
+        "tempo": 31089.935711,
+        "delta": -553.307365,
+        "classe": "BGP"
     }
 ]
