@@ -3742,5 +3742,17 @@
         "tempo": 31089.935711,
         "delta": -553.307365,
         "classe": "BGP"
+    },
+    {
+        "data": "26/03/2026",
+        "ora": "09:39:51.480572",
+        "timestamp": 1774514390,
+        "id_messaggio": 21850,
+        "frase": "Un buongiornando al giorno leva il medico di torno!",
+        "id_frase": 5,
+        "colore": "rosso",
+        "tempo": 34791.480572,
+        "delta": 3701.544861,
+        "classe": "BGP"
     }
 ]
