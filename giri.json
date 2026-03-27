@@ -3754,5 +3754,17 @@
         "tempo": 34791.480572,
         "delta": 3701.544861,
         "classe": "BGP"
+    },
+    {
+        "data": "27/03/2026",
+        "ora": "09:27:01.327695",
+        "timestamp": 1774600020,
+        "id_messaggio": 21912,
+        "frase": "I buongiornandi decidono il destino dei loro giorni, quando ti sorridono \u00e8 probabile che sia un si, ma quando si allontanano \u00e8 no!",
+        "id_frase": 102,
+        "colore": "verde",
+        "tempo": 34021.327695,
+        "delta": -770.152877,
+        "classe": "BGP"
     }
 ]
