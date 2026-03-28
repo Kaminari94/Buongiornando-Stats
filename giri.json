@@ -3766,5 +3766,17 @@
         "tempo": 34021.327695,
         "delta": -770.152877,
         "classe": "BGP"
+    },
+    {
+        "data": "28/03/2026",
+        "ora": "08:59:54.552158",
+        "timestamp": 1774684793,
+        "id_messaggio": 21951,
+        "frase": "La vita \u00e8 come una scarpa... Non puoi bere una mucca perch\u00e8 la terra \u00e8 una carota! Buongiornando!",
+        "id_frase": 82,
+        "colore": "verde",
+        "tempo": 32394.552158,
+        "delta": -1626.775537,
+        "classe": "BGP"
     }
 ]
