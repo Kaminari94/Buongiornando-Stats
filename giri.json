@@ -3778,5 +3778,17 @@
         "tempo": 32394.552158,
         "delta": -1626.775537,
         "classe": "BGP"
+    },
+    {
+        "data": "29/03/2026",
+        "ora": "09:00:06.504598",
+        "timestamp": 1774767606,
+        "id_messaggio": 21988,
+        "frase": "Si tuvieras una sola oportunidad para buongiornandear... \u00bfLa tomar\u00edas o la dejar\u00edas escapar? \u00a1Ey!",
+        "id_frase": 119,
+        "colore": "rosso",
+        "tempo": 32406.504598,
+        "delta": 11.95244,
+        "classe": "BGP"
     }
 ]
