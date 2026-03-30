@@ -3790,5 +3790,17 @@
         "tempo": 32406.504598,
         "delta": 11.95244,
         "classe": "BGP"
+    },
+    {
+        "data": "30/03/2026",
+        "ora": "10:05:36.018671",
+        "timestamp": 1774857935,
+        "id_messaggio": 22029,
+        "frase": "Struciolo! Faccio uno scandalo! Uollano uollano uollano, il buongiornando del capitano!",
+        "id_frase": 137,
+        "colore": "rosso",
+        "tempo": 36336.018671,
+        "delta": 3929.514073,
+        "classe": "BGP"
     }
 ]
