@@ -3826,5 +3826,17 @@
         "tempo": 18011.920465,
         "delta": 2076.845177,
         "classe": "MCNR"
+    },
+    {
+        "data": "02/04/2026",
+        "ora": "09:05:42.019817",
+        "timestamp": 1775113541,
+        "id_messaggio": 22117,
+        "frase": "Ho bisogno di buongiornandi per Dio! Per tutto quanto il giorno!",
+        "id_frase": 78,
+        "colore": "verde",
+        "tempo": 32742.019817,
+        "delta": -244.86428,
+        "classe": "BGP"
     }
 ]
