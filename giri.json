@@ -3838,5 +3838,17 @@
         "tempo": 32742.019817,
         "delta": -244.86428,
         "classe": "BGP"
+    },
+    {
+        "data": "03/04/2026",
+        "ora": "09:22:20.278117",
+        "timestamp": 1775200939,
+        "id_messaggio": 22138,
+        "frase": "Io ho una zia, una zia che sta a Forl\u00ec! E quando va a ballare con le mani fa cos\u00ec! Cos\u00ec! Cos\u00ec!",
+        "id_frase": 89,
+        "colore": "rosso",
+        "tempo": 33740.278117,
+        "delta": 998.2583,
+        "classe": "BGP"
     }
 ]
