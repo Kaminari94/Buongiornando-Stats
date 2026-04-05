@@ -3862,5 +3862,17 @@
         "tempo": 29216.792916,
         "delta": -4523.485201,
         "classe": "BGP"
+    },
+    {
+        "data": "05/04/2026",
+        "ora": "08:41:37.265511",
+        "timestamp": 1775371296,
+        "id_messaggio": 22257,
+        "frase": "Secondo me tu non sai chi \u00e8 Guccinando... Il primo a buongiornandare...",
+        "id_frase": 79,
+        "colore": "rosso",
+        "tempo": 31297.265511,
+        "delta": 2080.472595,
+        "classe": "BGP"
     }
 ]
