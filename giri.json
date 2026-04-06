@@ -3874,5 +3874,17 @@
         "tempo": 31297.265511,
         "delta": 2080.472595,
         "classe": "BGP"
+    },
+    {
+        "data": "06/04/2026",
+        "ora": "09:56:14.681094",
+        "timestamp": 1775462174,
+        "id_messaggio": 22321,
+        "frase": "Giornandoooo! Ricorda: quanne 'a femmena 'o culo tuculea, trova sempe a chi 'a sciuscea!",
+        "id_frase": 149,
+        "colore": "rosso",
+        "tempo": 35774.681094,
+        "delta": 4477.415583,
+        "classe": "BGP"
     }
 ]
