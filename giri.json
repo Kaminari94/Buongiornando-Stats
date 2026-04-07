@@ -3886,5 +3886,17 @@
         "tempo": 35774.681094,
         "delta": 4477.415583,
         "classe": "BGP"
+    },
+    {
+        "data": "07/04/2026",
+        "ora": "08:16:25.721109",
+        "timestamp": 1775542585,
+        "id_messaggio": 22328,
+        "frase": "Il buongiornando, malgrado tutto, credo che ci sia ancora: \u00e8 il continuare ad affermare un pensiero e il suo perch\u00e8, con la scusa di un contrasto che non c'\u00e8.",
+        "id_frase": 110,
+        "colore": "verde",
+        "tempo": 29785.721109,
+        "delta": -5988.959985,
+        "classe": "BGP"
     }
 ]
