@@ -3898,5 +3898,17 @@
         "tempo": 29785.721109,
         "delta": -5988.959985,
         "classe": "BGP"
+    },
+    {
+        "data": "08/04/2026",
+        "ora": "09:34:23.891423",
+        "timestamp": 1775633663,
+        "id_messaggio": 22336,
+        "frase": "I Buongiornandi arrivano cos\u00ec lentamente e vanno via cos\u00ec velocemente...",
+        "id_frase": 114,
+        "colore": "rosso",
+        "tempo": 34463.891423,
+        "delta": 4678.170314,
+        "classe": "BGP"
     }
 ]
