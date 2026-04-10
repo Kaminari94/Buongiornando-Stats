@@ -3922,5 +3922,17 @@
         "tempo": 27905.601316,
         "delta": -6558.290107,
         "classe": "BGP"
+    },
+    {
+        "data": "10/04/2026",
+        "ora": "08:59:09.363484",
+        "timestamp": 1775804348,
+        "id_messaggio": 22410,
+        "frase": "Chi dorme non piglia pesci, chi si sveglia dice buongiornando!",
+        "id_frase": 6,
+        "colore": "rosso",
+        "tempo": 32349.363484,
+        "delta": 4443.762168,
+        "classe": "BGP"
     }
 ]
