@@ -3934,5 +3934,17 @@
         "tempo": 32349.363484,
         "delta": 4443.762168,
         "classe": "BGP"
+    },
+    {
+        "data": "11/04/2026",
+        "ora": "08:57:50.318859",
+        "timestamp": 1775890669,
+        "id_messaggio": 22450,
+        "frase": "Nel mezzo del cammin di nostra vita, mi ritrovai per un nuovo giorno oscuro, che 'l buongiornando era smarrito!",
+        "id_frase": 87,
+        "colore": "verde",
+        "tempo": 32270.318859,
+        "delta": -79.044625,
+        "classe": "BGP"
     }
 ]
