@@ -3958,5 +3958,17 @@
         "tempo": 28992.088082,
         "delta": -3278.230777,
         "classe": "BGP"
+    },
+    {
+        "data": "13/04/2026",
+        "ora": "09:29:13.898088",
+        "timestamp": 1776065353,
+        "id_messaggio": 22517,
+        "frase": "Brufolazzi, tapparella gi\u00f9 e poltiglia. Pi\u00f9 ascella purificata... Ti ricordi che meraviglia, i buongiornandi delle medie?",
+        "id_frase": 139,
+        "colore": "rosso",
+        "tempo": 34153.898088,
+        "delta": 5161.810006,
+        "classe": "BGP"
     }
 ]
