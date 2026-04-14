@@ -3970,5 +3970,17 @@
         "tempo": 34153.898088,
         "delta": 5161.810006,
         "classe": "BGP"
+    },
+    {
+        "data": "14/04/2026",
+        "ora": "09:37:39.823296",
+        "timestamp": 1776152259,
+        "id_messaggio": 22525,
+        "frase": "Dio perdona, un buongiornandatore no! Buongiornando!",
+        "id_frase": 95,
+        "colore": "rosso",
+        "tempo": 34659.823296,
+        "delta": 505.925208,
+        "classe": "BGP"
     }
 ]
