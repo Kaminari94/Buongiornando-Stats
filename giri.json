@@ -3982,5 +3982,17 @@
         "tempo": 34659.823296,
         "delta": 505.925208,
         "classe": "BGP"
+    },
+    {
+        "data": "15/04/2026",
+        "ora": "05:03:31.718663",
+        "timestamp": 1776222211,
+        "id_messaggio": 22537,
+        "frase": "Houston, abbiamo un buongiornando!",
+        "id_frase": 19,
+        "colore": "rosso",
+        "tempo": 18211.718663,
+        "delta": 199.798198,
+        "classe": "MCNR"
     }
 ]
