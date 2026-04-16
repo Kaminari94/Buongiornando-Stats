@@ -3994,5 +3994,17 @@
         "tempo": 18211.718663,
         "delta": 199.798198,
         "classe": "MCNR"
+    },
+    {
+        "data": "16/04/2026",
+        "ora": "08:07:46.099529",
+        "timestamp": 1776319665,
+        "id_messaggio": 22560,
+        "frase": "Sta albeggiando. Saluta il nuovo giornando!",
+        "id_frase": 136,
+        "colore": "verde",
+        "tempo": 29266.099529,
+        "delta": -5393.723767,
+        "classe": "BGP"
     }
 ]
