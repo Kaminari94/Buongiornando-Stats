@@ -4018,5 +4018,17 @@
         "tempo": 32688.152816,
         "delta": 3422.053287,
         "classe": "BGP"
+    },
+    {
+        "data": "18/04/2026",
+        "ora": "07:57:02.117754",
+        "timestamp": 1776491821,
+        "id_messaggio": 22636,
+        "frase": "Tu chiamale se vuoi... emozioni, ma io le chiamo buongiornando!",
+        "id_frase": 32,
+        "colore": "verde",
+        "tempo": 28622.117754,
+        "delta": -4066.035062,
+        "classe": "BGP"
     }
 ]
