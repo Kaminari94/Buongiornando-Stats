@@ -4042,5 +4042,17 @@
         "tempo": 18545.634081,
         "delta": 333.915418,
         "classe": "MCNR"
+    },
+    {
+        "data": "20/04/2026",
+        "ora": "05:37:57.789170",
+        "timestamp": 1776656277,
+        "id_messaggio": 22743,
+        "frase": "E che cazzo, pure il buongiornando lo fa Favino!",
+        "id_frase": 77,
+        "colore": "rosso",
+        "tempo": 20277.78917,
+        "delta": 1732.155089,
+        "classe": "MCNR"
     }
 ]
