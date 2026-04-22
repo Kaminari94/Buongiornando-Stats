@@ -4066,5 +4066,17 @@
         "tempo": 27236.517735,
         "delta": -1385.600019,
         "classe": "BGP"
+    },
+    {
+        "data": "22/04/2026",
+        "ora": "07:09:17.343432",
+        "timestamp": 1776834556,
+        "id_messaggio": 22851,
+        "frase": "Aaaah l'odore del buongiornando al mattino...",
+        "id_frase": 121,
+        "colore": "verde",
+        "tempo": 25757.343432,
+        "delta": -1479.174303,
+        "classe": "BGP"
     }
 ]
