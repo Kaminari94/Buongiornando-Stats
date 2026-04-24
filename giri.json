@@ -4090,5 +4090,17 @@
         "tempo": 28961.29226,
         "delta": 3203.948828,
         "classe": "BGP"
+    },
+    {
+        "data": "24/04/2026",
+        "ora": "07:50:15.454608",
+        "timestamp": 1777009814,
+        "id_messaggio": 22902,
+        "frase": "Buongiornando o non buongiornando, questo \u00e8 il dilemma!",
+        "id_frase": 35,
+        "colore": "verde",
+        "tempo": 28215.454608,
+        "delta": -745.837652,
+        "classe": "BGP"
     }
 ]
