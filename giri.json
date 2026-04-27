@@ -4126,5 +4126,17 @@
         "tempo": 25150.94624,
         "delta": -444.175725,
         "classe": "BGP"
+    },
+    {
+        "data": "27/04/2026",
+        "ora": "08:10:02.491147",
+        "timestamp": 1777270201,
+        "id_messaggio": 22948,
+        "frase": "Ogni errore l'ho sempre pagato, anche se non era mio. Buongiornando, ammico mio.",
+        "id_frase": 109,
+        "colore": "rosso",
+        "tempo": 29402.491147,
+        "delta": 4251.544907,
+        "classe": "BGP"
     }
 ]
