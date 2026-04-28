@@ -4138,5 +4138,17 @@
         "tempo": 29402.491147,
         "delta": 4251.544907,
         "classe": "BGP"
+    },
+    {
+        "data": "28/04/2026",
+        "ora": "07:29:49.481658",
+        "timestamp": 1777354188,
+        "id_messaggio": 22962,
+        "frase": "Per mille soli splendenti, buongiornando!",
+        "id_frase": 27,
+        "colore": "verde",
+        "tempo": 26989.481658,
+        "delta": -2413.009489,
+        "classe": "BGP"
     }
 ]
