@@ -4150,5 +4150,17 @@
         "tempo": 26989.481658,
         "delta": -2413.009489,
         "classe": "BGP"
+    },
+    {
+        "data": "29/04/2026",
+        "ora": "07:48:46.524992",
+        "timestamp": 1777441726,
+        "id_messaggio": 22968,
+        "frase": "Potevo scegliere di essere chiunque, ho scelto di essere un buongiornando!",
+        "id_frase": 14,
+        "colore": "rosso",
+        "tempo": 28126.524992,
+        "delta": 1137.043334,
+        "classe": "BGP"
     }
 ]
