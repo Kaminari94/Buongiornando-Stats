@@ -4174,5 +4174,17 @@
         "tempo": 25829.577029,
         "delta": -2296.947963,
         "classe": "BGP"
+    },
+    {
+        "data": "01/05/2026",
+        "ora": "06:50:26.449654",
+        "timestamp": 1777611025,
+        "id_messaggio": 22983,
+        "frase": "Non possiamo fermarci qui, \u00e8 territorio di buongiornando!",
+        "id_frase": 44,
+        "colore": "verde",
+        "tempo": 24626.449654,
+        "delta": -1203.127375,
+        "classe": "BGP"
     }
 ]
