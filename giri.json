@@ -4186,5 +4186,17 @@
         "tempo": 24626.449654,
         "delta": -1203.127375,
         "classe": "BGP"
+    },
+    {
+        "data": "02/05/2026",
+        "ora": "07:54:45.448502",
+        "timestamp": 1777701284,
+        "id_messaggio": 23009,
+        "frase": "Ehi tu! S\u00ec, proprio tu! Buongiornando!",
+        "id_frase": 15,
+        "colore": "rosso",
+        "tempo": 28485.448502,
+        "delta": 3858.998848,
+        "classe": "BGP"
     }
 ]
