@@ -4198,5 +4198,17 @@
         "tempo": 28485.448502,
         "delta": 3858.998848,
         "classe": "BGP"
+    },
+    {
+        "data": "03/05/2026",
+        "ora": "07:38:02.380164",
+        "timestamp": 1777786681,
+        "id_messaggio": 23015,
+        "frase": "Say \"Giornando!\" to my little friend!",
+        "id_frase": 131,
+        "colore": "verde",
+        "tempo": 27482.380164,
+        "delta": -1003.068338,
+        "classe": "BGP"
     }
 ]
