@@ -4210,5 +4210,17 @@
         "tempo": 27482.380164,
         "delta": -1003.068338,
         "classe": "BGP"
+    },
+    {
+        "data": "04/05/2026",
+        "ora": "04:56:37.975464",
+        "timestamp": 1777863397,
+        "id_messaggio": 23017,
+        "frase": "Io sono tuo padre... e buongiornando!",
+        "id_frase": 22,
+        "colore": "verde",
+        "tempo": 17797.975464,
+        "delta": -2479.813706,
+        "classe": "MCNR"
     }
 ]
