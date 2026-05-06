@@ -4234,5 +4234,17 @@
         "tempo": 32771.617569,
         "delta": 5289.237405,
         "classe": "BGP"
+    },
+    {
+        "data": "06/05/2026",
+        "ora": "08:53:43.948740",
+        "timestamp": 1778050423,
+        "id_messaggio": 23025,
+        "frase": "Vai buongiornando, e smarmella. Apri tutto.",
+        "id_frase": 73,
+        "colore": "verde",
+        "tempo": 32023.94874,
+        "delta": -747.668829,
+        "classe": "BGP"
     }
 ]
