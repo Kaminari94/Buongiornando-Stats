@@ -4246,5 +4246,17 @@
         "tempo": 32023.94874,
         "delta": -747.668829,
         "classe": "BGP"
+    },
+    {
+        "data": "07/05/2026",
+        "ora": "08:36:45.090482",
+        "timestamp": 1778135804,
+        "id_messaggio": 23029,
+        "frase": "Beh noi... Lavoriamo nel buongiornando di precisione: tecnologie avanzate al servizio di progettazioni particolari.. Non so... Hardware e quelle cose... Cio\u00e8...",
+        "id_frase": 63,
+        "colore": "verde",
+        "tempo": 31005.090482,
+        "delta": -1018.858258,
+        "classe": "BGP"
     }
 ]
