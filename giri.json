@@ -4270,5 +4270,17 @@
         "tempo": 29038.280315,
         "delta": -1966.810167,
         "classe": "BGP"
+    },
+    {
+        "data": "08/05/2026",
+        "ora": "17:13:03.609983",
+        "timestamp": 1778253183,
+        "id_messaggio": 23054,
+        "frase": "Nel paese delle meraviglie si inizia la giornata con un buongiornando!",
+        "id_frase": 49,
+        "colore": "rosso",
+        "tempo": 61983.609983,
+        "delta": 32945.329668,
+        "classe": "BGP"
     }
 ]
