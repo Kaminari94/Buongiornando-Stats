@@ -4294,5 +4294,17 @@
         "tempo": 28963.737087,
         "delta": -33019.872896,
         "classe": "BGP"
+    },
+    {
+        "data": "11/05/2026",
+        "ora": "09:35:34.804668",
+        "timestamp": 1778484934,
+        "id_messaggio": 23082,
+        "frase": "Ac\u00e9rcate mas! Y mas! Y mas! Pero mucho mas! Y dime buongiornando! Aaaaah...",
+        "id_frase": 117,
+        "colore": "rosso",
+        "tempo": 34534.804668,
+        "delta": 5571.067581,
+        "classe": "BGP"
     }
 ]
