@@ -4306,5 +4306,17 @@
         "tempo": 34534.804668,
         "delta": 5571.067581,
         "classe": "BGP"
+    },
+    {
+        "data": "12/05/2026",
+        "ora": "09:37:28.072716",
+        "timestamp": 1778571447,
+        "id_messaggio": 23088,
+        "frase": "Io sono... Il buongiornando della notte!",
+        "id_frase": 51,
+        "colore": "rosso",
+        "tempo": 34648.072716,
+        "delta": 113.268048,
+        "classe": "BGP"
     }
 ]
