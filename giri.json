@@ -4342,5 +4342,17 @@
         "tempo": 34733.235579,
         "delta": 6441.554347,
         "classe": "BGP"
+    },
+    {
+        "data": "20/05/2026",
+        "ora": "04:57:44.628152",
+        "timestamp": 1779245864,
+        "id_messaggio": 23135,
+        "frase": "Un piccolo buongiornando per te, un grande buongiornando per l'umanit\u00e0!",
+        "id_frase": 50,
+        "colore": "rosso",
+        "tempo": 17864.628152,
+        "delta": 66.652688,
+        "classe": "MCNR"
     }
 ]
