@@ -4354,5 +4354,17 @@
         "tempo": 17864.628152,
         "delta": 66.652688,
         "classe": "MCNR"
+    },
+    {
+        "data": "21/05/2026",
+        "ora": "09:53:48.662680",
+        "timestamp": 1779350028,
+        "id_messaggio": 23139,
+        "frase": "La vita \u00e8 come una scatola di buongiornandi, non sai mai quale ti capita!",
+        "id_frase": 13,
+        "colore": "rosso",
+        "tempo": 35628.66268,
+        "delta": 895.427101,
+        "classe": "BGP"
     }
 ]
