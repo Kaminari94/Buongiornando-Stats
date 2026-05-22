@@ -4366,5 +4366,17 @@
         "tempo": 35628.66268,
         "delta": 895.427101,
         "classe": "BGP"
+    },
+    {
+        "data": "22/05/2026",
+        "ora": "07:52:07.837055",
+        "timestamp": 1779429127,
+        "id_messaggio": 23145,
+        "frase": "May the buongiornando be with you!",
+        "id_frase": 36,
+        "colore": "verde",
+        "tempo": 28327.837055,
+        "delta": -7300.825625,
+        "classe": "BGP"
     }
 ]
