@@ -4378,5 +4378,17 @@
         "tempo": 28327.837055,
         "delta": -7300.825625,
         "classe": "BGP"
+    },
+    {
+        "data": "23/05/2026",
+        "ora": "08:01:54.426457",
+        "timestamp": 1779516113,
+        "id_messaggio": 23234,
+        "frase": "Buongiornando! Dai dai dai! A cazzo de cane! DUCCIOOOO!",
+        "id_frase": 74,
+        "colore": "rosso",
+        "tempo": 28914.426457,
+        "delta": 586.589402,
+        "classe": "BGP"
     }
 ]
