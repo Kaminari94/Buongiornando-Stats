@@ -4426,5 +4426,17 @@
         "tempo": 28413.475512,
         "delta": -7039.590261,
         "classe": "BGP"
+    },
+    {
+        "data": "27/05/2026",
+        "ora": "08:24:13.496029",
+        "timestamp": 1779863053,
+        "id_messaggio": 23347,
+        "frase": "Buongiornando affaristico! E gli interessi PEM s'impennano!",
+        "id_frase": 61,
+        "colore": "rosso",
+        "tempo": 30253.496029,
+        "delta": 1840.020517,
+        "classe": "BGP"
     }
 ]
