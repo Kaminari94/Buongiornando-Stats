@@ -4450,5 +4450,17 @@
         "tempo": 32073.735178,
         "delta": 1820.239149,
         "classe": "BGP"
+    },
+    {
+        "data": "29/05/2026",
+        "ora": "04:30:26.364724",
+        "timestamp": 1780021825,
+        "id_messaggio": 23455,
+        "frase": "Si tuvieras una sola oportunidad para buongiornandear... \u00bfLa tomar\u00edas o la dejar\u00edas escapar? \u00a1Ey!",
+        "id_frase": 119,
+        "colore": "verde",
+        "tempo": 16226.364724,
+        "delta": -1638.263428,
+        "classe": "MCNR"
     }
 ]
