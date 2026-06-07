@@ -4546,5 +4546,17 @@
         "tempo": 28696.640689,
         "delta": -7595.12261,
         "classe": "BGP"
+    },
+    {
+        "data": "07/06/2026",
+        "ora": "08:27:27.576827",
+        "timestamp": 1780813647,
+        "id_messaggio": 23672,
+        "frase": "Anvedi come balla il buongiornando!",
+        "id_frase": 113,
+        "colore": "rosso",
+        "tempo": 30447.576827,
+        "delta": 1750.936138,
+        "classe": "BGP"
     }
 ]
