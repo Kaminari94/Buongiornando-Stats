@@ -4558,5 +4558,17 @@
         "tempo": 30447.576827,
         "delta": 1750.936138,
         "classe": "BGP"
+    },
+    {
+        "data": "08/06/2026",
+        "ora": "09:56:57.666804",
+        "timestamp": 1780905416,
+        "id_messaggio": 23688,
+        "frase": "Il buongiornando \u00e8 il segreto della felicit\u00e0!",
+        "id_frase": 53,
+        "colore": "rosso",
+        "tempo": 35817.666804,
+        "delta": 5370.089977,
+        "classe": "BGP"
     }
 ]
