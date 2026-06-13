@@ -4618,5 +4618,17 @@
         "tempo": 16792.852794,
         "delta": 566.48807,
         "classe": "MCNR"
+    },
+    {
+        "data": "13/06/2026",
+        "ora": "08:34:54.437479",
+        "timestamp": 1781332494,
+        "id_messaggio": 23762,
+        "frase": "In tiempo 'e tempesta, ogne pertuso \u00e8 puort! Giornandooo!",
+        "id_frase": 151,
+        "colore": "rosso",
+        "tempo": 30894.437479,
+        "delta": 1545.678439,
+        "classe": "BGP"
     }
 ]
