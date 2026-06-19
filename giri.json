@@ -4690,5 +4690,17 @@
         "tempo": 35165.374957,
         "delta": 5214.052865,
         "classe": "BGP"
+    },
+    {
+        "data": "19/06/2026",
+        "ora": "08:11:03.464915",
+        "timestamp": 1781849462,
+        "id_messaggio": 23872,
+        "frase": "Un amico di Nando un giorno mi ha detto: \"\u00c8 bene nella vita, come ad un banchetto, non alzarsi n\u00e9 assetati n\u00e9 ubriachi.\"",
+        "id_frase": 133,
+        "colore": "verde",
+        "tempo": 29463.464915,
+        "delta": -5701.910042,
+        "classe": "BGP"
     }
 ]
