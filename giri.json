@@ -4714,5 +4714,17 @@
         "tempo": 34093.734668,
         "delta": 4630.269753,
         "classe": "BGP"
+    },
+    {
+        "data": "21/06/2026",
+        "ora": "09:10:30.941146",
+        "timestamp": 1782025830,
+        "id_messaggio": 23979,
+        "frase": "Ogni giorno \u00e8 un buon giorno per dare il giornandooooo!",
+        "id_frase": 142,
+        "colore": "verde",
+        "tempo": 33030.941146,
+        "delta": -1062.793522,
+        "classe": "BGP"
     }
 ]
