@@ -4726,5 +4726,17 @@
         "tempo": 33030.941146,
         "delta": -1062.793522,
         "classe": "BGP"
+    },
+    {
+        "data": "22/06/2026",
+        "ora": "06:19:32.812608",
+        "timestamp": 1782101972,
+        "id_messaggio": 23992,
+        "frase": "Giornandoooo! Dicette 'o pappice vicino 'a noce, damme 'o tiempo ca te spertose!",
+        "id_frase": 148,
+        "colore": "verde",
+        "tempo": 22772.812608,
+        "delta": -10258.128538,
+        "classe": "BGP"
     }
 ]
