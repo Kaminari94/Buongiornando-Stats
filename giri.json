@@ -4738,5 +4738,17 @@
         "tempo": 22772.812608,
         "delta": -10258.128538,
         "classe": "BGP"
+    },
+    {
+        "data": "23/06/2026",
+        "ora": "08:35:14.438615",
+        "timestamp": 1782196513,
+        "id_messaggio": 24008,
+        "frase": "Buongiornando e vinci!",
+        "id_frase": 7,
+        "colore": "rosso",
+        "tempo": 30914.438615,
+        "delta": 8141.626007,
+        "classe": "BGP"
     }
 ]
