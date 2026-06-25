@@ -4762,5 +4762,17 @@
         "tempo": 32980.280779,
         "delta": 2065.842164,
         "classe": "BGP"
+    },
+    {
+        "data": "25/06/2026",
+        "ora": "08:49:36.747676",
+        "timestamp": 1782370176,
+        "id_messaggio": 24044,
+        "frase": "Buongiornando polacco minimalista di scrittore morto suicida giovanissimo! Copie vendute: 2.",
+        "id_frase": 69,
+        "colore": "verde",
+        "tempo": 31776.747676,
+        "delta": -1203.533103,
+        "classe": "BGP"
     }
 ]
