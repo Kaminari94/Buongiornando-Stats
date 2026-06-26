@@ -4774,5 +4774,17 @@
         "tempo": 31776.747676,
         "delta": -1203.533103,
         "classe": "BGP"
+    },
+    {
+        "data": "26/06/2026",
+        "ora": "07:51:14.974428",
+        "timestamp": 1782453074,
+        "id_messaggio": 24089,
+        "frase": "Sta albeggiando. Saluta il nuovo giornando!",
+        "id_frase": 136,
+        "colore": "verde",
+        "tempo": 28274.974428,
+        "delta": -3501.773248,
+        "classe": "BGP"
     }
 ]
