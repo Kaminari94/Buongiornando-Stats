@@ -4810,5 +4810,17 @@
         "tempo": 31581.611881,
         "delta": 3306.637453,
         "classe": "BGP"
+    },
+    {
+        "data": "29/06/2026",
+        "ora": "10:02:20.796287",
+        "timestamp": 1782720140,
+        "id_messaggio": 24190,
+        "frase": "Oscar mi ha detto di dirti: buongiornando!",
+        "id_frase": 2,
+        "colore": "rosso",
+        "tempo": 36140.796287,
+        "delta": 4559.184406,
+        "classe": "BGP"
     }
 ]
