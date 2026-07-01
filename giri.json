@@ -4834,5 +4834,17 @@
         "tempo": 17463.026669,
         "delta": 4772.922609,
         "classe": "MCNR"
+    },
+    {
+        "data": "01/07/2026",
+        "ora": "09:32:45.685301",
+        "timestamp": 1782891165,
+        "id_messaggio": 24219,
+        "frase": "Il buongiornando \u00e8 la risposta, non importa quale sia la domanda!",
+        "id_frase": 58,
+        "colore": "verde",
+        "tempo": 34365.685301,
+        "delta": -1775.110986,
+        "classe": "BGP"
     }
 ]
