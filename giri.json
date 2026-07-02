@@ -4846,5 +4846,17 @@
         "tempo": 34365.685301,
         "delta": -1775.110986,
         "classe": "BGP"
+    },
+    {
+        "data": "02/07/2026",
+        "ora": "04:47:30.991295",
+        "timestamp": 1782960450,
+        "id_messaggio": 24231,
+        "frase": "Un buongiornando macchiato, tiepido, senza schiuma e con poco caff\u00e8... Tiepido eh, non freddo!",
+        "id_frase": 68,
+        "colore": "verde",
+        "tempo": 17250.991295,
+        "delta": -212.035374,
+        "classe": "MCNR"
     }
 ]
