@@ -4858,5 +4858,17 @@
         "tempo": 17250.991295,
         "delta": -212.035374,
         "classe": "MCNR"
+    },
+    {
+        "data": "03/07/2026",
+        "ora": "07:51:48.335503",
+        "timestamp": 1783057907,
+        "id_messaggio": 24241,
+        "frase": "Il buongiornando \u00e8 come un biscotto ma se piove si scioglie.",
+        "id_frase": 52,
+        "colore": "verde",
+        "tempo": 28308.335503,
+        "delta": -6057.349798,
+        "classe": "BGP"
     }
 ]
