@@ -4894,5 +4894,17 @@
         "tempo": 34786.247048,
         "delta": 3985.777095,
         "classe": "BGP"
+    },
+    {
+        "data": "07/07/2026",
+        "ora": "09:12:52.802311",
+        "timestamp": 1783408372,
+        "id_messaggio": 24369,
+        "frase": "Fossi figo, direi buongiorando todos los d\u00edas, que a veces son d\u00edas horribles que ni regalados!",
+        "id_frase": 118,
+        "colore": "verde",
+        "tempo": 33172.802311,
+        "delta": -1613.444737,
+        "classe": "BGP"
     }
 ]
