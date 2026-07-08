@@ -4906,5 +4906,17 @@
         "tempo": 33172.802311,
         "delta": -1613.444737,
         "classe": "BGP"
+    },
+    {
+        "data": "08/07/2026",
+        "ora": "08:15:14.764860",
+        "timestamp": 1783491314,
+        "id_messaggio": 24389,
+        "frase": "E che cazzo, pure il buongiornando lo fa Favino!",
+        "id_frase": 77,
+        "colore": "verde",
+        "tempo": 29714.76486,
+        "delta": -3458.037451,
+        "classe": "BGP"
     }
 ]
