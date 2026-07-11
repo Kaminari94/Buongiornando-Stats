@@ -4942,5 +4942,17 @@
         "tempo": 22526.615926,
         "delta": -6792.584364,
         "classe": "BGP"
+    },
+    {
+        "data": "11/07/2026",
+        "ora": "09:04:19.152061",
+        "timestamp": 1783753458,
+        "id_messaggio": 24467,
+        "frase": "Buongiornando, non trovo una parola migliore. \u00c8 valida, il buongiornando \u00e8 giusto, buongiornando funziona, buongiornando chiarifica, penetra e cattura l'essenza dello spirito evolutivo. Buongiornando in tutte le sue forme: buongiornando di vita, di amore, di sapere, di denaro, ha improntato lo slancio in avanti de toda la humanidad. E il buongiornando, ascoltatemi bene, no salver\u00e0 solamente la VaLat e La Centrale del Latte, ma anche l'altra disfunzionante societ\u00e0 che ha nome Italia.",
+        "id_frase": 130,
+        "colore": "rosso",
+        "tempo": 32659.152061,
+        "delta": 10132.536135,
+        "classe": "BGP"
     }
 ]
