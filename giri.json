@@ -4966,5 +4966,17 @@
         "tempo": 33397.729726,
         "delta": 738.577665,
         "classe": "BGP"
+    },
+    {
+        "data": "13/07/2026",
+        "ora": "04:58:41.437683",
+        "timestamp": 1783911520,
+        "id_messaggio": 24553,
+        "frase": "Alla ricerca del buongiornando perduto!",
+        "id_frase": 43,
+        "colore": "rosso",
+        "tempo": 17921.437683,
+        "delta": 670.446388,
+        "classe": "MCNR"
     }
 ]
