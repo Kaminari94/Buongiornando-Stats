@@ -5002,5 +5002,17 @@
         "tempo": 31932.386351,
         "delta": -1261.534171,
         "classe": "BGP"
+    },
+    {
+        "data": "16/07/2026",
+        "ora": "04:54:36.269402",
+        "timestamp": 1784170475,
+        "id_messaggio": 24600,
+        "frase": "Svegliarsi \u00e8 difficile... ma buongiornare lo \u00e8 ancora di pi\u00f9!",
+        "id_frase": 38,
+        "colore": "verde",
+        "tempo": 17676.269402,
+        "delta": -245.168281,
+        "classe": "MCNR"
     }
 ]
