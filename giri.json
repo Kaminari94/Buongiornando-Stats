@@ -5014,5 +5014,17 @@
         "tempo": 17676.269402,
         "delta": -245.168281,
         "classe": "MCNR"
+    },
+    {
+        "data": "17/07/2026",
+        "ora": "09:02:24.437788",
+        "timestamp": 1784271743,
+        "id_messaggio": 24611,
+        "frase": "Quann' 'o mare \u00e8 calmo, ogni strunz \u00e8 marenaro! Giornandoooo!",
+        "id_frase": 154,
+        "colore": "rosso",
+        "tempo": 32544.437788,
+        "delta": 612.051437,
+        "classe": "BGP"
     }
 ]
