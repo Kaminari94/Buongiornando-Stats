@@ -5074,5 +5074,17 @@
         "tempo": 34479.922225,
         "delta": 5956.410347,
         "classe": "BGP"
+    },
+    {
+        "data": "22/07/2026",
+        "ora": "04:48:04.406293",
+        "timestamp": 1784688483,
+        "id_messaggio": 24784,
+        "frase": "Francamente, me ne infischio... tranne del buongiornando!",
+        "id_frase": 25,
+        "colore": "verde",
+        "tempo": 17284.406293,
+        "delta": -391.863109,
+        "classe": "MCNR"
     }
 ]
