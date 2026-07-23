@@ -5086,5 +5086,17 @@
         "tempo": 17284.406293,
         "delta": -391.863109,
         "classe": "MCNR"
+    },
+    {
+        "data": "23/07/2026",
+        "ora": "04:33:03.328814",
+        "timestamp": 1784773982,
+        "id_messaggio": 24804,
+        "frase": "\u00c8 un piccolo buongiornando per l'uomo, ma un grande buongiornando per l'umanit\u00e0!",
+        "id_frase": 23,
+        "colore": "verde",
+        "tempo": 16383.328814,
+        "delta": -901.077479,
+        "classe": "MCNR"
     }
 ]
