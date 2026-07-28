@@ -5146,5 +5146,17 @@
         "tempo": 37571.403489,
         "delta": 7582.029527,
         "classe": "BGP"
+    },
+    {
+        "data": "28/07/2026",
+        "ora": "09:01:27.277322",
+        "timestamp": 1785222086,
+        "id_messaggio": 24954,
+        "frase": "Buongiornando a tutti! Anche alla dottoressa Gastani-Frinzi dei miei coglioni!",
+        "id_frase": 62,
+        "colore": "verde",
+        "tempo": 32487.277322,
+        "delta": -5084.126167,
+        "classe": "BGP"
     }
 ]
