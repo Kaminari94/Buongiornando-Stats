@@ -5182,5 +5182,17 @@
         "tempo": 17432.271684,
         "delta": 1048.94287,
         "classe": "MCNR"
+    },
+    {
+        "data": "31/07/2026",
+        "ora": "10:04:52.450516",
+        "timestamp": 1785485091,
+        "id_messaggio": 25044,
+        "frase": "Il buongiornando \u00e8 come il sesso, se lo fai di continuo, alla lunga ti annoia! Infatti nessuno legge questa frase scommetto!",
+        "id_frase": 37,
+        "colore": "rosso",
+        "tempo": 36292.450516,
+        "delta": 6190.001659,
+        "classe": "BGP"
     }
 ]
