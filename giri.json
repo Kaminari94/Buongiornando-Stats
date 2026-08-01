@@ -5194,5 +5194,17 @@
         "tempo": 36292.450516,
         "delta": 6190.001659,
         "classe": "BGP"
+    },
+    {
+        "data": "01/08/2026",
+        "ora": "07:57:32.745036",
+        "timestamp": 1785563852,
+        "id_messaggio": 25108,
+        "frase": "Un piccolo buongiornando per te, un grande buongiornando per l'umanit\u00e0!",
+        "id_frase": 50,
+        "colore": "verde",
+        "tempo": 28652.745036,
+        "delta": -7639.70548,
+        "classe": "BGP"
     }
 ]
