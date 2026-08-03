@@ -5218,5 +5218,17 @@
         "tempo": 18138.496442,
         "delta": 706.224758,
         "classe": "MCNR"
+    },
+    {
+        "data": "03/08/2026",
+        "ora": "04:34:32.528801",
+        "timestamp": 1785724471,
+        "id_messaggio": 25228,
+        "frase": "Chi chiagn fott a chi rir! E chi buongiornanda fott a tutt quanta!",
+        "id_frase": 153,
+        "colore": "verde",
+        "tempo": 16472.528801,
+        "delta": -1665.967641,
+        "classe": "MCNR"
     }
 ]
