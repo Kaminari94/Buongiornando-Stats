@@ -5230,5 +5230,17 @@
         "tempo": 16472.528801,
         "delta": -1665.967641,
         "classe": "MCNR"
+    },
+    {
+        "data": "04/08/2026",
+        "ora": "07:59:35.048404",
+        "timestamp": 1785823174,
+        "id_messaggio": 25275,
+        "frase": "Parcheggi abusivi, applausi abusivi, buongiornandi sessuali abusiiiiiiiiiviiiiii!",
+        "id_frase": 99,
+        "colore": "rosso",
+        "tempo": 28775.048404,
+        "delta": 122.303368,
+        "classe": "BGP"
     }
 ]
