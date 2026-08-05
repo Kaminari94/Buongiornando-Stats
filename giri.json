@@ -5242,5 +5242,17 @@
         "tempo": 28775.048404,
         "delta": 122.303368,
         "classe": "BGP"
+    },
+    {
+        "data": "05/08/2026",
+        "ora": "08:30:27.067345",
+        "timestamp": 1785911426,
+        "id_messaggio": 25287,
+        "frase": "'A femmena pe' l'ommo addiventa pazza, l'ommo p' 'a femmena addiventa fesso! Giornandoooo!",
+        "id_frase": 156,
+        "colore": "rosso",
+        "tempo": 30627.067345,
+        "delta": 1852.018941,
+        "classe": "BGP"
     }
 ]
