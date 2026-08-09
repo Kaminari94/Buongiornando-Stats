@@ -5290,5 +5290,17 @@
         "tempo": 30513.203162,
         "delta": -764.610639,
         "classe": "BGP"
+    },
+    {
+        "data": "09/08/2026",
+        "ora": "07:48:48.139815",
+        "timestamp": 1786254527,
+        "id_messaggio": 25459,
+        "frase": "Libiamo, libiamo ne' lieti calici, che la bellezza infiora, e la fuggevol, fuggevol ora s'inebri\u00ec a buongiornand\u00e0!",
+        "id_frase": 125,
+        "colore": "verde",
+        "tempo": 28128.139815,
+        "delta": -2385.063347,
+        "classe": "BGP"
     }
 ]
