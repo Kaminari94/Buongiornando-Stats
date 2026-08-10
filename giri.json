@@ -5302,5 +5302,17 @@
         "tempo": 28128.139815,
         "delta": -2385.063347,
         "classe": "BGP"
+    },
+    {
+        "data": "10/08/2026",
+        "ora": "08:09:41.843467",
+        "timestamp": 1786342181,
+        "id_messaggio": 25506,
+        "frase": "TVUMDB: Ti voglio un mondo di buongiornandi.",
+        "id_frase": 101,
+        "colore": "rosso",
+        "tempo": 29381.843467,
+        "delta": 1253.703652,
+        "classe": "BGP"
     }
 ]
