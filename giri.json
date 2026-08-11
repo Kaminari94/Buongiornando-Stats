@@ -5314,5 +5314,17 @@
         "tempo": 29381.843467,
         "delta": 1253.703652,
         "classe": "BGP"
+    },
+    {
+        "data": "11/08/2026",
+        "ora": "10:01:46.917659",
+        "timestamp": 1786435306,
+        "id_messaggio": 25520,
+        "frase": "Say my name! Nando! SAY MY NAME! Buongiornando!",
+        "id_frase": 46,
+        "colore": "rosso",
+        "tempo": 36106.917659,
+        "delta": 6725.074192,
+        "classe": "BGP"
     }
 ]
