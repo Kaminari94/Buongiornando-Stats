@@ -5326,5 +5326,17 @@
         "tempo": 36106.917659,
         "delta": 6725.074192,
         "classe": "BGP"
+    },
+    {
+        "data": "12/08/2026",
+        "ora": "04:56:24.794319",
+        "timestamp": 1786503384,
+        "id_messaggio": 25522,
+        "frase": "Carpe diem! Giornandate ragazzi! Rendete straordinario il vostro giorno!",
+        "id_frase": 135,
+        "colore": "verde",
+        "tempo": 17784.794319,
+        "delta": -336.94426,
+        "classe": "MCNR"
     }
 ]
