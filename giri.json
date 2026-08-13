@@ -5338,5 +5338,17 @@
         "tempo": 17784.794319,
         "delta": -336.94426,
         "classe": "MCNR"
+    },
+    {
+        "data": "13/08/2026",
+        "ora": "07:58:59.249709",
+        "timestamp": 1786600738,
+        "id_messaggio": 25548,
+        "frase": "Buongiornando! Dai dai dai! A cazzo de cane! DUCCIOOOO!",
+        "id_frase": 74,
+        "colore": "verde",
+        "tempo": 28739.249709,
+        "delta": -7367.66795,
+        "classe": "BGP"
     }
 ]
