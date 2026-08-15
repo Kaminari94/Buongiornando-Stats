@@ -5362,5 +5362,17 @@
         "tempo": 30644.832868,
         "delta": 1905.583159,
         "classe": "BGP"
+    },
+    {
+        "data": "15/08/2026",
+        "ora": "09:09:54.756683",
+        "timestamp": 1786777794,
+        "id_messaggio": 25584,
+        "frase": "Hasta la vista, buongiornando!",
+        "id_frase": 21,
+        "colore": "rosso",
+        "tempo": 32994.756683,
+        "delta": 2349.923815,
+        "classe": "BGP"
     }
 ]
