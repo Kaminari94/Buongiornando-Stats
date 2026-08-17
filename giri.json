@@ -5386,5 +5386,17 @@
         "tempo": 18915.769157,
         "delta": 1130.974838,
         "classe": "MCNR"
+    },
+    {
+        "data": "17/08/2026",
+        "ora": "09:15:20.850924",
+        "timestamp": 1786950920,
+        "id_messaggio": 25629,
+        "frase": "Il buongiornando, malgrado tutto, credo che ci sia ancora: \u00e8 il continuare ad affermare un pensiero e il suo perch\u00e8, con la scusa di un contrasto che non c'\u00e8.",
+        "id_frase": 110,
+        "colore": "rosso",
+        "tempo": 33320.850924,
+        "delta": 326.094241,
+        "classe": "BGP"
     }
 ]
