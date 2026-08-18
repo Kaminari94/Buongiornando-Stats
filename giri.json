@@ -5398,5 +5398,17 @@
         "tempo": 33320.850924,
         "delta": 326.094241,
         "classe": "BGP"
+    },
+    {
+        "data": "18/08/2026",
+        "ora": "07:36:22.656227",
+        "timestamp": 1787031382,
+        "id_messaggio": 25635,
+        "frase": "Sguazzando nel lago... Nel lago duria! Buongiornando!",
+        "id_frase": 91,
+        "colore": "verde",
+        "tempo": 27382.656227,
+        "delta": -5938.194697,
+        "classe": "BGP"
     }
 ]
