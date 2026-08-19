@@ -5410,5 +5410,17 @@
         "tempo": 27382.656227,
         "delta": -5938.194697,
         "classe": "BGP"
+    },
+    {
+        "data": "19/08/2026",
+        "ora": "04:53:11.259600",
+        "timestamp": 1787107990,
+        "id_messaggio": 25657,
+        "frase": "To infinity and... buongiornando!",
+        "id_frase": 10,
+        "colore": "verde",
+        "tempo": 17591.2596,
+        "delta": -1324.509557,
+        "classe": "MCNR"
     }
 ]
