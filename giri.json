@@ -5422,5 +5422,17 @@
         "tempo": 17591.2596,
         "delta": -1324.509557,
         "classe": "MCNR"
+    },
+    {
+        "data": "20/08/2026",
+        "ora": "04:52:12.586546",
+        "timestamp": 1787194332,
+        "id_messaggio": 25694,
+        "frase": "Nella vita ci sono due tipi di persone: chi dice buongiornando e chi lo subisce!",
+        "id_frase": 41,
+        "colore": "verde",
+        "tempo": 17532.586546,
+        "delta": -58.673054,
+        "classe": "MCNR"
     }
 ]
