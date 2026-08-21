@@ -5434,5 +5434,17 @@
         "tempo": 17532.586546,
         "delta": -58.673054,
         "classe": "MCNR"
+    },
+    {
+        "data": "21/08/2026",
+        "ora": "05:25:56.712192",
+        "timestamp": 1787282756,
+        "id_messaggio": 25711,
+        "frase": "Voglio il buongiornando e lo voglio adesso!",
+        "id_frase": 30,
+        "colore": "rosso",
+        "tempo": 19556.712192,
+        "delta": 2024.125646,
+        "classe": "MCNR"
     }
 ]
