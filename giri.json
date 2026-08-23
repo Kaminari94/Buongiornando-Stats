@@ -5458,5 +5458,17 @@
         "tempo": 29303.707689,
         "delta": 1921.051462,
         "classe": "BGP"
+    },
+    {
+        "data": "23/08/2026",
+        "ora": "09:54:29.144640",
+        "timestamp": 1787471668,
+        "id_messaggio": 25781,
+        "frase": "Buongiornando ch'a nullo amato amar perdona... Buongiornando condusse noi ad un nuovo giorno.",
+        "id_frase": 83,
+        "colore": "rosso",
+        "tempo": 35669.14464,
+        "delta": 6365.436951,
+        "classe": "BGP"
     }
 ]
