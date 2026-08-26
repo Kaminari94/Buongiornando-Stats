@@ -5494,5 +5494,17 @@
         "tempo": 27478.443856,
         "delta": -1778.528166,
         "classe": "BGP"
+    },
+    {
+        "data": "26/08/2026",
+        "ora": "08:42:55.345368",
+        "timestamp": 1787726574,
+        "id_messaggio": 25895,
+        "frase": "Iniziare la giornata senza un buongiornando \u00e8 come un cielo senza stelle!",
+        "id_frase": 20,
+        "colore": "rosso",
+        "tempo": 31375.345368,
+        "delta": 3896.901512,
+        "classe": "BGP"
     }
 ]
