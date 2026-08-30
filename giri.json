@@ -5542,5 +5542,17 @@
         "tempo": 35122.517924,
         "delta": 421.450462,
         "classe": "BGP"
+    },
+    {
+        "data": "30/08/2026",
+        "ora": "10:34:12.044446",
+        "timestamp": 1788078851,
+        "id_messaggio": 25955,
+        "frase": "Nessuno mette il buongiornando in un angolo!",
+        "id_frase": 24,
+        "colore": "rosso",
+        "tempo": 38052.044446,
+        "delta": 2929.526522,
+        "classe": "BGP"
     }
 ]
