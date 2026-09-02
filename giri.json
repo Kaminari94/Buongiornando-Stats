@@ -5578,5 +5578,17 @@
         "tempo": 26861.586435,
         "delta": -8384.618187,
         "classe": "BGP"
+    },
+    {
+        "data": "02/09/2026",
+        "ora": "09:32:26.052862",
+        "timestamp": 1788334345,
+        "id_messaggio": 26053,
+        "frase": "Certe mattine hanno bisogno di un buongiornando doppio!",
+        "id_frase": 57,
+        "colore": "rosso",
+        "tempo": 34346.052862,
+        "delta": 7484.466427,
+        "classe": "BGP"
     }
 ]
