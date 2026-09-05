@@ -5614,5 +5614,17 @@
         "tempo": 31631.911923,
         "delta": -103.300161,
         "classe": "BGP"
+    },
+    {
+        "data": "05/09/2026",
+        "ora": "08:26:40.552377",
+        "timestamp": 1788589599,
+        "id_messaggio": 26384,
+        "frase": "Se tu da questo gruppo guardi in alto... Giornando del giornando del giornando! Vedrai come in un sogno tanti gundam, e Mecha-Grisban che combatte per te!",
+        "id_frase": 104,
+        "colore": "verde",
+        "tempo": 30400.552377,
+        "delta": -1231.359546,
+        "classe": "BGP"
     }
 ]
