@@ -5650,5 +5650,17 @@
         "tempo": 15433.630293,
         "delta": -2318.760636,
         "classe": "MCNR"
+    },
+    {
+        "data": "08/09/2026",
+        "ora": "09:07:02.155273",
+        "timestamp": 1788851221,
+        "id_messaggio": 26460,
+        "frase": "Giornandare! E giornanderemo!",
+        "id_frase": 103,
+        "colore": "rosso",
+        "tempo": 32822.155273,
+        "delta": 2241.589599,
+        "classe": "BGP"
     }
 ]
