@@ -5698,5 +5698,17 @@
         "tempo": 30954.538357,
         "delta": -1867.616916,
         "classe": "BGP"
+    },
+    {
+        "data": "12/09/2026",
+        "ora": "08:30:51.686552",
+        "timestamp": 1789194650,
+        "id_messaggio": 26537,
+        "frase": "Fatti non foste a viver come bruti, ma per seguire virtute, canoscenza e buongiornandi.",
+        "id_frase": 88,
+        "colore": "verde",
+        "tempo": 30651.686552,
+        "delta": -302.851805,
+        "classe": "BGP"
     }
 ]
