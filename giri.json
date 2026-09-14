@@ -5722,5 +5722,17 @@
         "tempo": 37167.795995,
         "delta": 6516.109443,
         "classe": "BGP"
+    },
+    {
+        "data": "14/09/2026",
+        "ora": "09:04:57.288242",
+        "timestamp": 1789369496,
+        "id_messaggio": 26574,
+        "frase": "La vita \u00e8 troppo breve per non dire buongiornando!",
+        "id_frase": 45,
+        "colore": "verde",
+        "tempo": 32697.288242,
+        "delta": -4470.507753,
+        "classe": "BGP"
     }
 ]
