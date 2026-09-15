@@ -5734,5 +5734,17 @@
         "tempo": 32697.288242,
         "delta": -4470.507753,
         "classe": "BGP"
+    },
+    {
+        "data": "15/09/2026",
+        "ora": "05:02:00.712883",
+        "timestamp": 1789441320,
+        "id_messaggio": 26579,
+        "frase": "Se vuoi il buongiornando, preparati a combattere!",
+        "id_frase": 17,
+        "colore": "verde",
+        "tempo": 18120.712883,
+        "delta": -523.089156,
+        "classe": "MCNR"
     }
 ]
