@@ -5746,5 +5746,17 @@
         "tempo": 18120.712883,
         "delta": -523.089156,
         "classe": "MCNR"
+    },
+    {
+        "data": "16/09/2026",
+        "ora": "08:54:53.595915",
+        "timestamp": 1789541693,
+        "id_messaggio": 26604,
+        "frase": "Ad ognuno serve un buongiornando: \u00e8 cos\u00ec che ho imparato ad amarmi, \u00e8 cos\u00ec che ho imparato da me.",
+        "id_frase": 112,
+        "colore": "verde",
+        "tempo": 32093.595915,
+        "delta": -603.692327,
+        "classe": "BGP"
     }
 ]
