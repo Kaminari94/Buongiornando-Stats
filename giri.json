@@ -5758,5 +5758,17 @@
         "tempo": 32093.595915,
         "delta": -603.692327,
         "classe": "BGP"
+    },
+    {
+        "data": "17/09/2026",
+        "ora": "09:04:00.271258",
+        "timestamp": 1789628639,
+        "id_messaggio": 26631,
+        "frase": "Sii il buongiornando che vuoi vedere nel mondo!",
+        "id_frase": 59,
+        "colore": "rosso",
+        "tempo": 32640.271258,
+        "delta": 546.675343,
+        "classe": "BGP"
     }
 ]
