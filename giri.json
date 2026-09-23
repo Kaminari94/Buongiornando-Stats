@@ -5830,5 +5830,17 @@
         "tempo": 33181.990146,
         "delta": 1275.309301,
         "classe": "BGP"
+    },
+    {
+        "data": "23/09/2026",
+        "ora": "06:04:47.756254",
+        "timestamp": 1790136287,
+        "id_messaggio": 26842,
+        "frase": "Miiii ha detto miocuggino che una volta ha buongiornandato come un lampo!",
+        "id_frase": 138,
+        "colore": "verde",
+        "tempo": 21887.756254,
+        "delta": -11294.233892,
+        "classe": "BGP"
     }
 ]
