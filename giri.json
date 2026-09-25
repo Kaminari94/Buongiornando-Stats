@@ -5854,5 +5854,17 @@
         "tempo": 22786.348225,
         "delta": 898.591971,
         "classe": "BGP"
+    },
+    {
+        "data": "25/09/2026",
+        "ora": "09:31:32.565621",
+        "timestamp": 1790321491,
+        "id_messaggio": 26875,
+        "frase": "Ma quanto pesa un buongiornando? Pochi grammi soltanto, ma i pi\u00f9 pesanti che un uomo ha.",
+        "id_frase": 111,
+        "colore": "rosso",
+        "tempo": 34292.565621,
+        "delta": 11506.217396,
+        "classe": "BGP"
     }
 ]
