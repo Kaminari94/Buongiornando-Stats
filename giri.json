@@ -5866,5 +5866,17 @@
         "tempo": 34292.565621,
         "delta": 11506.217396,
         "classe": "BGP"
+    },
+    {
+        "data": "26/09/2026",
+        "ora": "08:54:57.690652",
+        "timestamp": 1790405696,
+        "id_messaggio": 26886,
+        "frase": "Da grandi buongiornandi derivano grandi responsabilit\u00e0!",
+        "id_frase": 60,
+        "colore": "verde",
+        "tempo": 32097.690652,
+        "delta": -2194.874969,
+        "classe": "BGP"
     }
 ]
