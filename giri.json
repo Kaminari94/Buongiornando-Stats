@@ -5890,5 +5890,17 @@
         "tempo": 30511.32779,
         "delta": -1586.362862,
         "classe": "BGP"
+    },
+    {
+        "data": "28/09/2026",
+        "ora": "08:02:35.680601",
+        "timestamp": 1790575355,
+        "id_messaggio": 26971,
+        "frase": "Buongiornando affaristico! E gli interessi PEM s'impennano!",
+        "id_frase": 61,
+        "colore": "verde",
+        "tempo": 28955.680601,
+        "delta": -1555.647189,
+        "classe": "BGP"
     }
 ]
