@@ -5914,5 +5914,17 @@
         "tempo": 29256.284228,
         "delta": 300.603627,
         "classe": "BGP"
+    },
+    {
+        "data": "30/09/2026",
+        "ora": "08:02:49.094346",
+        "timestamp": 1790748168,
+        "id_messaggio": 27004,
+        "frase": "D\u00ec buongiornando ancora una volta, ti sfido!",
+        "id_frase": 34,
+        "colore": "verde",
+        "tempo": 28969.094346,
+        "delta": -287.189882,
+        "classe": "BGP"
     }
 ]
