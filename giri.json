@@ -5938,5 +5938,17 @@
         "tempo": 18093.875006,
         "delta": -2199.947491,
         "classe": "MCNR"
+    },
+    {
+        "data": "02/10/2026",
+        "ora": "08:09:19.440844",
+        "timestamp": 1790921358,
+        "id_messaggio": 27035,
+        "frase": "Oggi mi \u00e8 arrivata una mail di una ragazza ucraina che mi vuol conoscere, mi ha visto su un sito, scrive: \"Sono una donna bravo, che non cerca avventure corte bens\u00ec una relazione fisso.\" Provo un'istintiva fiducia verso le donne dell'est Europa grazie a questa cosa dell'Internet.",
+        "id_frase": 120,
+        "colore": "rosso",
+        "tempo": 29359.440844,
+        "delta": 390.346498,
+        "classe": "BGP"
     }
 ]
