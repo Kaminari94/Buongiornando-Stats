@@ -5962,5 +5962,17 @@
         "tempo": 23691.446279,
         "delta": -5667.994565,
         "classe": "BGP"
+    },
+    {
+        "data": "04/10/2026",
+        "ora": "09:01:05.641221",
+        "timestamp": 1791097265,
+        "id_messaggio": 27051,
+        "frase": "Quando il giorno si fa duro, i Nandi iniziano a buongiornandare!",
+        "id_frase": 47,
+        "colore": "rosso",
+        "tempo": 32465.641221,
+        "delta": 8774.194942,
+        "classe": "BGP"
     }
 ]
