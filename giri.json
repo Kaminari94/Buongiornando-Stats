@@ -5974,5 +5974,17 @@
         "tempo": 32465.641221,
         "delta": 8774.194942,
         "classe": "BGP"
+    },
+    {
+        "data": "05/10/2026",
+        "ora": "08:47:23.482241",
+        "timestamp": 1791182842,
+        "id_messaggio": 27060,
+        "frase": "Perch\u00e9 accontentarsi di un buongiorno, quando puoi avere un buongiornando?",
+        "id_frase": 54,
+        "colore": "verde",
+        "tempo": 31643.482241,
+        "delta": -822.15898,
+        "classe": "BGP"
     }
 ]
