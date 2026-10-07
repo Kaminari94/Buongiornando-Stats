@@ -5998,5 +5998,17 @@
         "tempo": 18485.087242,
         "delta": 391.212236,
         "classe": "MCNR"
+    },
+    {
+        "data": "07/10/2026",
+        "ora": "08:55:22.088750",
+        "timestamp": 1791356121,
+        "id_messaggio": 27128,
+        "frase": "Da un grande buongiornando derivano grandi responsabilit\u00e0!",
+        "id_frase": 28,
+        "colore": "rosso",
+        "tempo": 32122.08875,
+        "delta": 478.606509,
+        "classe": "BGP"
     }
 ]
