@@ -6022,5 +6022,17 @@
         "tempo": 32749.853634,
         "delta": 627.764884,
         "classe": "BGP"
+    },
+    {
+        "data": "09/10/2026",
+        "ora": "08:49:10.886632",
+        "timestamp": 1791528549,
+        "id_messaggio": 27230,
+        "frase": "Cosa aggiungere potrebbe un narratore, a quanto gi\u00e0 narrato dal buongiornatore? A me non resta altro che sparire... Fare un bell'inchino e poi... Svanire.",
+        "id_frase": 67,
+        "colore": "verde",
+        "tempo": 31750.886632,
+        "delta": -998.967002,
+        "classe": "BGP"
     }
 ]
