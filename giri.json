@@ -6034,5 +6034,17 @@
         "tempo": 31750.886632,
         "delta": -998.967002,
         "classe": "BGP"
+    },
+    {
+        "data": "10/10/2026",
+        "ora": "08:47:04.408571",
+        "timestamp": 1791614823,
+        "id_messaggio": 27274,
+        "frase": "E da me che voi? Al massimo te posso cant\u00e0 un buongiornando!",
+        "id_frase": 90,
+        "colore": "verde",
+        "tempo": 31624.408571,
+        "delta": -126.478061,
+        "classe": "BGP"
     }
 ]
