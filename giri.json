@@ -6082,5 +6082,17 @@
         "tempo": 31426.373442,
         "delta": -3839.406055,
         "classe": "BGP"
+    },
+    {
+        "data": "14/10/2026",
+        "ora": "12:27:03.168069",
+        "timestamp": 1791973622,
+        "id_messaggio": 27422,
+        "frase": "I feel the need... The need for giornando!",
+        "id_frase": 134,
+        "colore": "rosso",
+        "tempo": 44823.168069,
+        "delta": 13396.794627,
+        "classe": "BGP"
     }
 ]
