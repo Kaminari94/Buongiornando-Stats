@@ -6106,5 +6106,17 @@
         "tempo": 36015.161832,
         "delta": -8808.006237,
         "classe": "BGP"
+    },
+    {
+        "data": "16/10/2026",
+        "ora": "10:02:01.969728",
+        "timestamp": 1792137721,
+        "id_messaggio": 27476,
+        "frase": "Ti far\u00f2 un buongiornando che non potrai rifiutare!",
+        "id_frase": 29,
+        "colore": "rosso",
+        "tempo": 36121.969728,
+        "delta": 106.807896,
+        "classe": "BGP"
     }
 ]
