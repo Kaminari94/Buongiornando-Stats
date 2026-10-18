@@ -6130,5 +6130,17 @@
         "tempo": 33186.207041,
         "delta": -2935.762687,
         "classe": "BGP"
+    },
+    {
+        "data": "18/10/2026",
+        "ora": "09:18:35.305237",
+        "timestamp": 1792307914,
+        "id_messaggio": 27636,
+        "frase": "La vita \u00e8 come una scatola di buongiornandi, non sai mai quale ti capita!",
+        "id_frase": 13,
+        "colore": "rosso",
+        "tempo": 33515.305237,
+        "delta": 329.098196,
+        "classe": "BGP"
     }
 ]
