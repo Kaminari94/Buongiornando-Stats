@@ -6142,5 +6142,17 @@
         "tempo": 33515.305237,
         "delta": 329.098196,
         "classe": "BGP"
+    },
+    {
+        "data": "19/10/2026",
+        "ora": "09:45:36.857402",
+        "timestamp": 1792395936,
+        "id_messaggio": 27658,
+        "frase": "Serve un buongiorno pi\u00f9 grande!",
+        "id_frase": 126,
+        "colore": "rosso",
+        "tempo": 35136.857402,
+        "delta": 1621.552165,
+        "classe": "BGP"
     }
 ]
