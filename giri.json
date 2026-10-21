@@ -6166,5 +6166,17 @@
         "tempo": 31296.52084,
         "delta": -3840.336562,
         "classe": "BGP"
+    },
+    {
+        "data": "21/10/2026",
+        "ora": "09:29:40.332475",
+        "timestamp": 1792567779,
+        "id_messaggio": 27722,
+        "frase": "Scommetto che nessuno sa cosa c'\u00e8 scritto qui! Buongiornando!",
+        "id_frase": 48,
+        "colore": "rosso",
+        "tempo": 34180.332475,
+        "delta": 2883.811635,
+        "classe": "BGP"
     }
 ]
