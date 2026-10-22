@@ -6178,5 +6178,17 @@
         "tempo": 34180.332475,
         "delta": 2883.811635,
         "classe": "BGP"
+    },
+    {
+        "data": "22/10/2026",
+        "ora": "08:57:08.689727",
+        "timestamp": 1792652227,
+        "id_messaggio": 27749,
+        "frase": "Buongiornando e ricordate Capit\u00e0! L'acqua va add\u00f2 sta 'a pendenza, l'amore ven ar\u00f2 sta a speranz!",
+        "id_frase": 161,
+        "colore": "verde",
+        "tempo": 32228.689727,
+        "delta": -1951.642748,
+        "classe": "BGP"
     }
 ]
