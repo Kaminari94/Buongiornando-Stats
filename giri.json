@@ -6202,5 +6202,17 @@
         "tempo": 29955.900107,
         "delta": -2272.78962,
         "classe": "BGP"
+    },
+    {
+        "data": "24/10/2026",
+        "ora": "09:00:19.758814",
+        "timestamp": 1792825219,
+        "id_messaggio": 27816,
+        "frase": "Il buongiornando \u00e8 la materia di cui sono fatti i sogni!",
+        "id_frase": 123,
+        "colore": "rosso",
+        "tempo": 32419.758814,
+        "delta": 2463.858707,
+        "classe": "BGP"
     }
 ]
