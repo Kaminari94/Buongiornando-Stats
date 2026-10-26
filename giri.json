@@ -6226,5 +6226,17 @@
         "tempo": 30461.364678,
         "delta": -1958.394136,
         "classe": "BGP"
+    },
+    {
+        "data": "26/10/2026",
+        "ora": "07:37:30.173948",
+        "timestamp": 1792996649,
+        "id_messaggio": 27871,
+        "frase": "Un buongiornando... Agitato, non mescolato.",
+        "id_frase": 132,
+        "colore": "verde",
+        "tempo": 27450.173948,
+        "delta": -3011.19073,
+        "classe": "BGP"
     }
 ]
