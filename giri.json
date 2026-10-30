@@ -6262,5 +6262,17 @@
         "tempo": 31253.654215,
         "delta": -132.658586,
         "classe": "BGP"
+    },
+    {
+        "data": "30/10/2026",
+        "ora": "04:58:19.236852",
+        "timestamp": 1793332698,
+        "id_messaggio": 27963,
+        "frase": "Cogliete l'attimo, buongiornandatori! Rendete straordinaria la vostra vita.",
+        "id_frase": 94,
+        "colore": "verde",
+        "tempo": 17899.236852,
+        "delta": -585.85039,
+        "classe": "MCNR"
     }
 ]
