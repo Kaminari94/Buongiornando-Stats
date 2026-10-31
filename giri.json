@@ -6274,5 +6274,17 @@
         "tempo": 17899.236852,
         "delta": -585.85039,
         "classe": "MCNR"
+    },
+    {
+        "data": "31/10/2026",
+        "ora": "09:02:54.706443",
+        "timestamp": 1793433774,
+        "id_messaggio": 28010,
+        "frase": "Giornaaaaand! Ll'acqua 'nfraceta 'o bastemiento a mmare!",
+        "id_frase": 144,
+        "colore": "rosso",
+        "tempo": 32574.706443,
+        "delta": 1321.052228,
+        "classe": "BGP"
     }
 ]
