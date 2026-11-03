@@ -6310,5 +6310,17 @@
         "tempo": 31895.200877,
         "delta": 485.8835,
         "classe": "BGP"
+    },
+    {
+        "data": "03/11/2026",
+        "ora": "07:49:44.213670",
+        "timestamp": 1793688583,
+        "id_messaggio": 28116,
+        "frase": "Come stai senza me come stai? Buongiornando buongiornandissimo! Come sto senza te? Come sto? Buongiornando... Malissimooooooo",
+        "id_frase": 122,
+        "colore": "verde",
+        "tempo": 28184.21367,
+        "delta": -3710.987207,
+        "classe": "BGP"
     }
 ]
