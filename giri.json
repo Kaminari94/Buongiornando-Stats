@@ -6334,5 +6334,17 @@
         "tempo": 18010.071193,
         "delta": 110.834341,
         "classe": "MCNR"
+    },
+    {
+        "data": "05/11/2026",
+        "ora": "05:51:45.760865",
+        "timestamp": 1793854305,
+        "id_messaggio": 28201,
+        "frase": "Una volta che il bufalo \u00e8 stato ferito, una gallina che gironzola ovunque incontrer\u00e0 il serpente. Giornando!",
+        "id_frase": 85,
+        "colore": "rosso",
+        "tempo": 21105.760865,
+        "delta": 3095.689672,
+        "classe": "MCNR"
     }
 ]
