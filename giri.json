@@ -6358,5 +6358,17 @@
         "tempo": 26579.149184,
         "delta": -1605.064486,
         "classe": "BGP"
+    },
+    {
+        "data": "07/11/2026",
+        "ora": "07:09:10.452018",
+        "timestamp": 1794031749,
+        "id_messaggio": 28269,
+        "frase": "Quanno 'o diavulo tuoio jeva a' scola, 'o mio era maestro. Giornando!",
+        "id_frase": 158,
+        "colore": "verde",
+        "tempo": 25750.452018,
+        "delta": -828.697166,
+        "classe": "BGP"
     }
 ]
