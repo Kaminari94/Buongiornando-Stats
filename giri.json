@@ -6382,5 +6382,17 @@
         "tempo": 28387.452439,
         "delta": 2637.000421,
         "classe": "BGP"
+    },
+    {
+        "data": "09/11/2026",
+        "ora": "08:39:39.819575",
+        "timestamp": 1794209979,
+        "id_messaggio": 28373,
+        "frase": "Giornandare! E giornanderemo!",
+        "id_frase": 103,
+        "colore": "rosso",
+        "tempo": 31179.819575,
+        "delta": 2792.367136,
+        "classe": "BGP"
     }
 ]
