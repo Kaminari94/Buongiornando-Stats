@@ -6394,5 +6394,17 @@
         "tempo": 31179.819575,
         "delta": 2792.367136,
         "classe": "BGP"
+    },
+    {
+        "data": "10/11/2026",
+        "ora": "09:30:51.664004",
+        "timestamp": 1794299451,
+        "id_messaggio": 28398,
+        "frase": "Quando un airone fa il coraggioso, vuol dire che c'\u00e8 un albero vicino! Giornando!",
+        "id_frase": 75,
+        "colore": "rosso",
+        "tempo": 34251.664004,
+        "delta": 3071.844429,
+        "classe": "BGP"
     }
 ]
