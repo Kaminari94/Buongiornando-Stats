@@ -6406,5 +6406,17 @@
         "tempo": 34251.664004,
         "delta": 3071.844429,
         "classe": "BGP"
+    },
+    {
+        "data": "11/11/2026",
+        "ora": "08:33:54.664452",
+        "timestamp": 1794382434,
+        "id_messaggio": 28404,
+        "frase": "\u00c8 pericoloso andare da soli! Prendi questo buongiornando!",
+        "id_frase": 18,
+        "colore": "verde",
+        "tempo": 30834.664452,
+        "delta": -3416.999552,
+        "classe": "BGP"
     }
 ]
