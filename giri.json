@@ -6466,5 +6466,17 @@
         "tempo": 39391.752394,
         "delta": 5333.806221,
         "classe": "BGP"
+    },
+    {
+        "data": "16/11/2026",
+        "ora": "10:10:51.355401",
+        "timestamp": 1794820250,
+        "id_messaggio": 28543,
+        "frase": "Sta albeggiando... Saluta il nuovo buongiornando!",
+        "id_frase": 84,
+        "colore": "verde",
+        "tempo": 36651.355401,
+        "delta": -2740.396993,
+        "classe": "BGP"
     }
 ]
