@@ -6490,5 +6490,17 @@
         "tempo": 30472.166694,
         "delta": -6179.188707,
         "classe": "BGP"
+    },
+    {
+        "data": "18/11/2026",
+        "ora": "06:01:12.914896",
+        "timestamp": 1794978072,
+        "id_messaggio": 28564,
+        "frase": "Giornando! Arricurdateve: Ommo 'nzurato, ommo 'nguaiato. (Uomo sposato, uomo inguaiato)",
+        "id_frase": 157,
+        "colore": "viola",
+        "tempo": 21672.914896,
+        "delta": -8799.251798,
+        "classe": "BGP"
     }
 ]
