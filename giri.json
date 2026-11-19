@@ -6502,5 +6502,17 @@
         "tempo": 21672.914896,
         "delta": -8799.251798,
         "classe": "BGP"
+    },
+    {
+        "data": "19/11/2026",
+        "ora": "09:05:23.977401",
+        "timestamp": 1795075523,
+        "id_messaggio": 28594,
+        "frase": "Buongiornando: l'unico sport estremo consentito a letto.",
+        "id_frase": 162,
+        "colore": "rosso",
+        "tempo": 32723.977401,
+        "delta": 11051.062505,
+        "classe": "BGP"
     }
 ]
