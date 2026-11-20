@@ -6514,5 +6514,17 @@
         "tempo": 32723.977401,
         "delta": 11051.062505,
         "classe": "BGP"
+    },
+    {
+        "data": "20/11/2026",
+        "ora": "08:59:50.996258",
+        "timestamp": 1795161590,
+        "id_messaggio": 28611,
+        "frase": "Nando, ti prego, buongiornandomela!",
+        "id_frase": 65,
+        "colore": "verde",
+        "tempo": 32390.996258,
+        "delta": -332.981143,
+        "classe": "BGP"
     }
 ]
