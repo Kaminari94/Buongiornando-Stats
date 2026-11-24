@@ -6562,5 +6562,17 @@
         "tempo": 31224.487753,
         "delta": -4545.697797,
         "classe": "BGP"
+    },
+    {
+        "data": "24/11/2026",
+        "ora": "09:52:55.719423",
+        "timestamp": 1795510375,
+        "id_messaggio": 28672,
+        "frase": "Say my name! Nando! SAY MY NAME! Buongiornando!",
+        "id_frase": 46,
+        "colore": "rosso",
+        "tempo": 35575.719423,
+        "delta": 4351.23167,
+        "classe": "BGP"
     }
 ]
