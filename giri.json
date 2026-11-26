@@ -6586,5 +6586,17 @@
         "tempo": 33113.260455,
         "delta": -2462.458968,
         "classe": "BGP"
+    },
+    {
+        "data": "26/11/2026",
+        "ora": "07:41:58.861376",
+        "timestamp": 1795675318,
+        "id_messaggio": 28719,
+        "frase": "Ogni giorno \u00e8 una pagina bianca... riempila con un buongiornando!",
+        "id_frase": 55,
+        "colore": "verde",
+        "tempo": 27718.861376,
+        "delta": -5394.399079,
+        "classe": "BGP"
     }
 ]
