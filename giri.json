@@ -6610,5 +6610,17 @@
         "tempo": 35150.147007,
         "delta": 7431.285631,
         "classe": "BGP"
+    },
+    {
+        "data": "28/11/2026",
+        "ora": "06:58:07.522895",
+        "timestamp": 1795845487,
+        "id_messaggio": 28765,
+        "frase": "Mi dispiace... Di svegliarti... Forse un buongiornando non sar\u00f2...",
+        "id_frase": 105,
+        "colore": "verde",
+        "tempo": 25087.522895,
+        "delta": -10062.624112,
+        "classe": "BGP"
     }
 ]
